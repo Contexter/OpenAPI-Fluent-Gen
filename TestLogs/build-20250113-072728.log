@@ -1,0 +1,2046 @@
+Fetching https://github.com/apple/swift-nio-transport-services.git
+Fetching https://github.com/apple/swift-nio-ssl.git
+Fetching https://github.com/vapor/multipart-kit.git
+[1/2533] Fetching multipart-kit
+[77/4830] Fetching multipart-kit, swift-nio-transport-services
+[2805/18627] Fetching multipart-kit, swift-nio-transport-services, swift-nio-ssl
+Fetched https://github.com/apple/swift-nio-transport-services.git from cache (1.00s)
+Fetching https://github.com/apple/swift-nio.git
+Fetched https://github.com/vapor/multipart-kit.git from cache (1.07s)
+Fetching https://github.com/apple/swift-nio-http2.git
+Fetched https://github.com/apple/swift-nio-ssl.git from cache (1.46s)
+Fetching https://github.com/jpsim/Yams.git
+[1/11265] Fetching swift-nio-http2
+[114/84004] Fetching swift-nio-http2, swift-nio
+[10829/94012] Fetching swift-nio-http2, swift-nio, yams
+Fetched https://github.com/apple/swift-nio-http2.git from cache (1.42s)
+Fetching https://github.com/vapor/websocket-kit.git
+[57289/82747] Fetching swift-nio, yams
+Fetched https://github.com/jpsim/Yams.git from cache (1.26s)
+Fetching https://github.com/apple/swift-collections.git
+[53100/72739] Fetching swift-nio
+[53101/75263] Fetching swift-nio, websocket-kit
+Fetched https://github.com/vapor/websocket-kit.git from cache (0.35s)
+Fetching https://github.com/apple/swift-asn1.git
+[56010/72739] Fetching swift-nio
+[71286/88349] Fetching swift-nio, swift-collections
+[72897/89776] Fetching swift-nio, swift-collections, swift-asn1
+Fetched https://github.com/apple/swift-asn1.git from cache (0.32s)
+Fetching https://github.com/apple/swift-system.git
+[75549/88349] Fetching swift-nio, swift-collections
+[80545/92309] Fetching swift-nio, swift-collections, swift-system
+Fetched https://github.com/apple/swift-system.git from cache (0.47s)
+[87413/88349] Fetching swift-nio, swift-collections
+Fetching https://github.com/apple/swift-distributed-tracing.git
+[88350/93272] Fetching swift-nio, swift-collections, swift-distributed-tracing
+Fetched https://github.com/apple/swift-collections.git from cache (1.27s)
+[73527/77662] Fetching swift-nio, swift-distributed-tracing
+Fetching https://github.com/swift-server/async-http-client.git
+Fetched https://github.com/apple/swift-distributed-tracing.git from cache (0.52s)
+Fetching https://github.com/apple/swift-numerics.git
+[1/13340] Fetching async-http-client
+[2269/18916] Fetching async-http-client, swift-numerics
+Fetched https://github.com/apple/swift-numerics.git from cache (0.51s)
+Fetching https://github.com/apple/swift-service-context.git
+[1/1018] Fetching swift-service-context
+Fetched https://github.com/apple/swift-service-context.git from cache (0.32s)
+Fetching https://github.com/vapor/routing-kit.git
+Fetched https://github.com/swift-server/async-http-client.git from cache (1.01s)
+Fetching https://github.com/vapor/console-kit.git
+[1/20690] Fetching routing-kit
+[208/26160] Fetching routing-kit, console-kit
+Fetched https://github.com/vapor/console-kit.git from cache (0.43s)
+Fetching https://github.com/apple/swift-metrics.git
+[16139/20690] Fetching routing-kit
+[20691/22824] Fetching routing-kit, swift-metrics
+Fetched https://github.com/apple/swift-nio.git from cache (4.73s)
+Fetching https://github.com/apple/swift-crypto.git
+Fetched https://github.com/apple/swift-metrics.git from cache (0.37s)
+Fetching https://github.com/apple/swift-nio-extras.git
+Fetched https://github.com/vapor/routing-kit.git from cache (0.88s)
+Fetching https://github.com/vapor/vapor.git
+[1/12160] Fetching swift-crypto
+[245/17434] Fetching swift-crypto, swift-nio-extras
+Fetched https://github.com/apple/swift-nio-extras.git from cache (0.38s)
+Fetching https://github.com/apple/swift-algorithms.git
+[3040/12160] Fetching swift-crypto
+[3406/82871] Fetching swift-crypto, vapor
+[21319/88485] Fetching swift-crypto, vapor, swift-algorithms
+Fetched https://github.com/apple/swift-algorithms.git from cache (0.48s)
+Fetching https://github.com/apple/swift-http-types
+[30545/82871] Fetching swift-crypto, vapor
+[61659/83625] Fetching swift-crypto, vapor, swift-http-types
+Fetched https://github.com/apple/swift-http-types from cache (0.29s)
+[70144/82871] Fetching swift-crypto, vapor
+Fetching https://github.com/apple/swift-log.git
+Fetched https://github.com/apple/swift-crypto.git from cache (1.35s)
+Fetching https://github.com/apple/swift-atomics.git
+[1/3743] Fetching swift-log
+[3744/5312] Fetching swift-log, swift-atomics
+Fetched https://github.com/apple/swift-log.git from cache (0.49s)
+[1350/1569] Fetching swift-atomics
+Fetching https://github.com/vapor/async-kit.git
+Fetched https://github.com/apple/swift-atomics.git from cache (0.52s)
+[1/2370] Fetching async-kit
+Fetched https://github.com/vapor/async-kit.git from cache (0.32s)
+Fetched https://github.com/vapor/vapor.git from cache (1.91s)
+Computing version for https://github.com/vapor/vapor.git
+Computed https://github.com/vapor/vapor.git at 4.111.0 (4.80s)
+Computing version for https://github.com/jpsim/Yams.git
+Computed https://github.com/jpsim/Yams.git at 4.0.6 (0.39s)
+Computing version for https://github.com/apple/swift-atomics.git
+Computed https://github.com/apple/swift-atomics.git at 1.2.0 (0.37s)
+Computing version for https://github.com/vapor/multipart-kit.git
+Computed https://github.com/vapor/multipart-kit.git at 4.7.1 (0.36s)
+Computing version for https://github.com/vapor/websocket-kit.git
+Computed https://github.com/vapor/websocket-kit.git at 2.15.0 (0.39s)
+Computing version for https://github.com/apple/swift-algorithms.git
+Computed https://github.com/apple/swift-algorithms.git at 1.2.0 (0.39s)
+Computing version for https://github.com/apple/swift-service-context.git
+Computed https://github.com/apple/swift-service-context.git at 1.1.0 (0.39s)
+Computing version for https://github.com/apple/swift-distributed-tracing.git
+Computed https://github.com/apple/swift-distributed-tracing.git at 1.1.2 (0.39s)
+Computing version for https://github.com/apple/swift-metrics.git
+Computed https://github.com/apple/swift-metrics.git at 2.5.0 (0.35s)
+Computing version for https://github.com/apple/swift-log.git
+Computed https://github.com/apple/swift-log.git at 1.6.2 (0.35s)
+Computing version for https://github.com/apple/swift-nio-extras.git
+Computed https://github.com/apple/swift-nio-extras.git at 1.24.1 (0.39s)
+Computing version for https://github.com/apple/swift-nio-http2.git
+Computed https://github.com/apple/swift-nio-http2.git at 1.35.0 (0.42s)
+Computing version for https://github.com/apple/swift-nio-ssl.git
+Computed https://github.com/apple/swift-nio-ssl.git at 2.29.0 (0.52s)
+Computing version for https://github.com/apple/swift-nio.git
+Computed https://github.com/apple/swift-nio.git at 2.77.0 (0.51s)
+Computing version for https://github.com/vapor/routing-kit.git
+Computed https://github.com/vapor/routing-kit.git at 4.9.1 (0.36s)
+Computing version for https://github.com/apple/swift-crypto.git
+Computed https://github.com/apple/swift-crypto.git at 3.10.0 (1.22s)
+Computing version for https://github.com/vapor/console-kit.git
+Computed https://github.com/vapor/console-kit.git at 4.15.1 (0.37s)
+Computing version for https://github.com/vapor/async-kit.git
+Computed https://github.com/vapor/async-kit.git at 1.20.0 (0.39s)
+Computing version for https://github.com/swift-server/async-http-client.git
+Computed https://github.com/swift-server/async-http-client.git at 1.24.0 (0.37s)
+Computing version for https://github.com/apple/swift-collections.git
+Computed https://github.com/apple/swift-collections.git at 1.1.4 (0.90s)
+Computing version for https://github.com/apple/swift-nio-transport-services.git
+Computed https://github.com/apple/swift-nio-transport-services.git at 1.23.0 (0.36s)
+Computing version for https://github.com/apple/swift-numerics.git
+Computed https://github.com/apple/swift-numerics.git at 1.0.2 (0.39s)
+Computing version for https://github.com/apple/swift-http-types
+Computed https://github.com/apple/swift-http-types at 1.3.1 (0.38s)
+Computing version for https://github.com/apple/swift-system.git
+Computed https://github.com/apple/swift-system.git at 1.4.0 (0.35s)
+Computing version for https://github.com/apple/swift-asn1.git
+Computed https://github.com/apple/swift-asn1.git at 1.3.0 (0.40s)
+Creating working copy for https://github.com/apple/swift-nio-extras.git
+Working copy of https://github.com/apple/swift-nio-extras.git resolved at 1.24.1
+Creating working copy for https://github.com/vapor/console-kit.git
+Working copy of https://github.com/vapor/console-kit.git resolved at 4.15.1
+Creating working copy for https://github.com/apple/swift-crypto.git
+Working copy of https://github.com/apple/swift-crypto.git resolved at 3.10.0
+Creating working copy for https://github.com/apple/swift-system.git
+Working copy of https://github.com/apple/swift-system.git resolved at 1.4.0
+Creating working copy for https://github.com/apple/swift-nio.git
+Working copy of https://github.com/apple/swift-nio.git resolved at 2.77.0
+Creating working copy for https://github.com/apple/swift-log.git
+Working copy of https://github.com/apple/swift-log.git resolved at 1.6.2
+Creating working copy for https://github.com/apple/swift-algorithms.git
+Working copy of https://github.com/apple/swift-algorithms.git resolved at 1.2.0
+Creating working copy for https://github.com/apple/swift-metrics.git
+Working copy of https://github.com/apple/swift-metrics.git resolved at 2.5.0
+Creating working copy for https://github.com/apple/swift-collections.git
+Working copy of https://github.com/apple/swift-collections.git resolved at 1.1.4
+Creating working copy for https://github.com/apple/swift-distributed-tracing.git
+Working copy of https://github.com/apple/swift-distributed-tracing.git resolved at 1.1.2
+Creating working copy for https://github.com/apple/swift-nio-ssl.git
+Working copy of https://github.com/apple/swift-nio-ssl.git resolved at 2.29.0
+Creating working copy for https://github.com/apple/swift-nio-transport-services.git
+Working copy of https://github.com/apple/swift-nio-transport-services.git resolved at 1.23.0
+Creating working copy for https://github.com/vapor/routing-kit.git
+Working copy of https://github.com/vapor/routing-kit.git resolved at 4.9.1
+Creating working copy for https://github.com/vapor/websocket-kit.git
+Working copy of https://github.com/vapor/websocket-kit.git resolved at 2.15.0
+Creating working copy for https://github.com/apple/swift-http-types
+Working copy of https://github.com/apple/swift-http-types resolved at 1.3.1
+Creating working copy for https://github.com/apple/swift-numerics.git
+Working copy of https://github.com/apple/swift-numerics.git resolved at 1.0.2
+Creating working copy for https://github.com/swift-server/async-http-client.git
+Working copy of https://github.com/swift-server/async-http-client.git resolved at 1.24.0
+Creating working copy for https://github.com/apple/swift-atomics.git
+Working copy of https://github.com/apple/swift-atomics.git resolved at 1.2.0
+Creating working copy for https://github.com/vapor/async-kit.git
+Working copy of https://github.com/vapor/async-kit.git resolved at 1.20.0
+Creating working copy for https://github.com/apple/swift-service-context.git
+Working copy of https://github.com/apple/swift-service-context.git resolved at 1.1.0
+Creating working copy for https://github.com/jpsim/Yams.git
+Working copy of https://github.com/jpsim/Yams.git resolved at 4.0.6
+Creating working copy for https://github.com/apple/swift-asn1.git
+Working copy of https://github.com/apple/swift-asn1.git resolved at 1.3.0
+Creating working copy for https://github.com/vapor/multipart-kit.git
+Working copy of https://github.com/vapor/multipart-kit.git resolved at 4.7.1
+Creating working copy for https://github.com/apple/swift-nio-http2.git
+Working copy of https://github.com/apple/swift-nio-http2.git resolved at 1.35.0
+Creating working copy for https://github.com/vapor/vapor.git
+Working copy of https://github.com/vapor/vapor.git resolved at 4.111.0
+warning: 'swift-algorithms': found 1 file(s) which are unhandled; explicitly declare them as resources or exclude from the target
+    /home/runner/work/OpenAPI-Fluent-Gen/OpenAPI-Fluent-Gen/OpenAPIFluentGen/.build/checkouts/swift-algorithms/Sources/Algorithms/Documentation.docc
+Building for debugging...
+[0/907] Compiling tasn_utl.c
+[1/907] Compiling asn1_lib.c
+[2/907] Write sources
+[3/907] Compiling bio_mem.c
+[4/907] Write sources
+[8/907] Compiling _NumericsShims _NumericsShims.c
+[9/907] Write sources
+[18/907] Copying openapi.yaml
+[18/907] Write sources
+[43/907] Compiling _AtomicsShims.c
+[44/907] Write sources
+[53/907] Compiling writer.c
+[54/907] Compiling base64.c
+[55/907] Compiling reader.c
+[56/907] Compiling parser.c
+[57/907] Compiling scanner.c
+[58/907] Write swift-version--1BFCD5C06E9F820A.txt
+[59/907] Compiling api.c
+[60/907] Compiling emitter.c
+[61/907] Compiling CVaporBcrypt bcrypt.c
+[62/907] Compiling CVaporBcrypt blf.c
+[64/929] Emitting module _NIOBase64
+[65/929] Emitting module Yams
+[66/932] Compiling _NIOBase64 Base64.swift
+[67/933] Compiling ServiceContextModule ServiceContextKey.swift
+[69/933] Compiling _NIODataStructures _TinyArray.swift
+[70/933] Compiling _NIODataStructures PriorityQueue.swift
+[71/934] Compiling ServiceContextModule ServiceContext.swift
+[72/934] Emitting module ServiceContextModule
+[74/947] Compiling RealModule Float16+Real.swift
+[75/947] Compiling RealModule Float80+Real.swift
+[76/949] Emitting module RealModule
+[77/949] Compiling RealModule Double+Real.swift
+[78/949] Compiling RealModule ElementaryFunctions.swift
+[79/949] Compiling RealModule Float+Real.swift
+[80/949] Compiling RealModule AlgebraicField.swift
+[81/949] Compiling RealModule ApproximateEquality.swift
+[82/949] Compiling RealModule AugmentedArithmetic.swift
+[83/949] Emitting module _NIODataStructures
+[84/949] Compiling _NIODataStructures Heap.swift
+[85/950] Emitting module Logging
+[86/951] Compiling Logging Locks.swift
+[87/951] Compiling Logging LogHandler.swift
+[89/951] Compiling RealModule Real.swift
+[90/951] Compiling RealModule RealFunctions.swift
+[92/952] Compiling Yams String+Yams.swift
+[93/952] Compiling Yams Tag.swift
+[94/952] Compiling Yams YamlError.swift
+[95/952] Compiling Logging MetadataProvider.swift
+[98/958] Compiling Yams Node.Scalar.swift
+[99/958] Compiling Yams Node.Sequence.swift
+[100/962] Compiling InternalCollectionsUtilities Integer rank.swift
+[101/962] Compiling InternalCollectionsUtilities _SortedCollection.swift
+[102/962] Compiling InternalCollectionsUtilities _UniqueCollection.swift
+[103/962] Compiling InternalCollectionsUtilities Debugging.swift
+[104/962] Compiling InternalCollectionsUtilities UnsafeMutableBufferPointer+SE-0370.swift
+[105/962] Compiling InternalCollectionsUtilities UnsafeMutablePointer+SE-0370.swift
+[106/962] Compiling InternalCollectionsUtilities UnsafeRawPointer extensions.swift
+[107/962] Compiling InternalCollectionsUtilities FixedWidthInteger+roundUpToPowerOfTwo.swift
+[112/968] Compiling InternalCollectionsUtilities Descriptions.swift
+[113/977] Compiling Instrumentation MultiplexInstrument.swift
+[114/978] Compiling Logging Logging.swift
+[115/979] Compiling InternalCollectionsUtilities RandomAccessCollection+Offsets.swift
+[116/979] Compiling InternalCollectionsUtilities Specialize.swift
+[117/979] Compiling InternalCollectionsUtilities UnsafeBufferPointer+Extras.swift
+[118/979] Compiling InternalCollectionsUtilities UnsafeMutableBufferPointer+Extras.swift
+[119/979] Compiling Instrumentation Instrument.swift
+[120/979] Compiling Instrumentation InstrumentationSystem.swift
+[121/979] Emitting module Instrumentation
+[122/979] Compiling Instrumentation Locks.swift
+[129/980] Compiling Instrumentation NoOpInstrument.swift
+[130/983] Emitting module InternalCollectionsUtilities
+[130/983] Wrapping AST for _NIODataStructures for debugging
+[132/983] Wrapping AST for _NIOBase64 for debugging
+[134/988] Compiling RoutingKit Router.swift
+[135/989] Compiling InternalCollectionsUtilities UInt+first and last set bit.swift
+[136/989] Compiling InternalCollectionsUtilities UInt+reversed.swift
+[137/989] Compiling InternalCollectionsUtilities _UnsafeBitSet+Index.swift
+[138/989] Compiling InternalCollectionsUtilities _UnsafeBitSet+_Word.swift
+[139/989] Compiling InternalCollectionsUtilities _UnsafeBitSet.swift
+[140/990] Emitting module CoreMetrics
+[142/997] Compiling RoutingKit PathComponent.swift
+[143/997] Emitting module RoutingKit
+[144/997] Compiling Tracing InstrumentationSystem+Tracing.swift
+[145/997] Compiling Tracing NoOpTracer.swift
+[145/997] Wrapping AST for Yams for debugging
+[147/997] Compiling RoutingKit TrieRouter.swift
+[148/998] Compiling CoreMetrics Locks.swift
+[149/998] Compiling CoreMetrics Metrics.swift
+[152/1025] Emitting module Tracing
+[153/1058] Compiling _RopeModule BigString+Debugging.swift
+[154/1058] Compiling _RopeModule BigString+Index.swift
+[155/1058] Compiling Tracing TracingTime.swift
+[156/1111] Compiling HeapModule Heap.swift
+[157/1112] Compiling OrderedCollections OrderedDictionary+Hashable.swift
+[158/1112] Compiling OrderedCollections OrderedDictionary+Initializers.swift
+[159/1112] Compiling OrderedCollections OrderedDictionary+Partial RangeReplaceableCollection.swift
+[160/1112] Compiling OrderedCollections OrderedDictionary+Sendable.swift
+[163/1113] Compiling OrderedCollections OrderedDictionary+Invariants.swift
+[164/1113] Compiling OrderedCollections OrderedDictionary+Partial MutableCollection.swift
+[165/1113] Emitting module HeapModule
+[167/1113] Compiling HeapModule _HeapNode.swift
+[169/1116] Emitting module Metrics
+[170/1116] Compiling Metrics Metrics.swift
+[172/1195] Compiling DequeModule Deque+Equatable.swift
+[173/1195] Compiling DequeModule Deque+ExpressibleByArrayLiteral.swift
+[174/1195] Compiling DequeModule Deque+Extras.swift
+[175/1195] Compiling DequeModule Deque+Hashable.swift
+[176/1199] Emitting module OrderedCollections
+[177/1214] Compiling HashTreeCollections _HashNode+Primitive Insertions.swift
+[178/1214] Compiling HashTreeCollections _HashNode+Primitive Removals.swift
+[179/1214] Compiling HashTreeCollections _HashNode+Primitive Replacement.swift
+[180/1214] Compiling HashTreeCollections _HashNode+Storage.swift
+[181/1214] Compiling HashTreeCollections _HashNode+Structural compactMapValues.swift
+[182/1214] Compiling HashTreeCollections _HashNode+Structural filter.swift
+[183/1214] Compiling HashTreeCollections _HashNode+Structural intersection.swift
+[184/1214] Compiling HashTreeCollections _HashNode+Structural isDisjoint.swift
+[185/1214] Compiling HashTreeCollections _HashNode+Structural isEqualSet.swift
+[186/1214] Compiling HashTreeCollections _HashNode+Structural isSubset.swift
+[187/1214] Compiling HashTreeCollections _HashNode+Structural mapValues.swift
+[188/1214] Compiling HashTreeCollections _HashNode+Structural merge.swift
+[189/1214] Compiling HashTreeCollections _HashNode+Structural subtracting.swift
+[190/1214] Compiling HashTreeCollections _HashNode+Structural symmetricDifference.swift
+[191/1214] Compiling HashTreeCollections _HashNode+Structural union.swift
+[196/1214] Compiling DequeModule Deque+Codable.swift
+[197/1214] Compiling DequeModule Deque+Collection.swift
+[198/1214] Compiling DequeModule Deque+CustomReflectable.swift
+[199/1214] Compiling DequeModule Deque+Descriptions.swift
+[200/1214] Compiling DequeModule Deque+Testing.swift
+[201/1214] Compiling DequeModule Deque._Storage.swift
+[202/1214] Compiling DequeModule Deque._UnsafeHandle.swift
+[203/1214] Compiling DequeModule Deque.swift
+[204/1214] Compiling DequeModule _DequeBuffer.swift
+[205/1214] Compiling DequeModule _DequeBufferHeader.swift
+[206/1214] Compiling DequeModule _DequeSlot.swift
+[207/1214] Compiling DequeModule _UnsafeWrappedBuffer.swift
+[208/1214] Compiling HashTreeCollections TreeSet+Debugging.swift
+[209/1214] Compiling HashTreeCollections TreeSet+Descriptions.swift
+[210/1214] Compiling HashTreeCollections TreeSet+Equatable.swift
+[211/1214] Compiling HashTreeCollections TreeSet+ExpressibleByArrayLiteral.swift
+[212/1214] Compiling HashTreeCollections TreeSet+Extras.swift
+[213/1214] Compiling HashTreeCollections _AncestorHashSlots.swift
+[214/1214] Compiling HashTreeCollections _Bitmap.swift
+[215/1214] Compiling HashTreeCollections _Bucket.swift
+[216/1214] Compiling HashTreeCollections _Hash.swift
+[217/1214] Compiling HashTreeCollections _HashLevel.swift
+[218/1214] Compiling HashTreeCollections _HashNode+Builder.swift
+[219/1214] Compiling HashTreeCollections _HashNode+Debugging.swift
+[220/1214] Compiling HashTreeCollections _HashNode+Initializers.swift
+[221/1214] Compiling HashTreeCollections _HashNode+Invariants.swift
+[222/1214] Compiling HashTreeCollections _HashNode+Lookups.swift
+[227/1214] Emitting module _RopeModule
+[251/1233] Emitting module DequeModule
+[256/1234] Wrapping AST for Tracing for debugging
+[257/1234] Wrapping AST for ServiceContextModule for debugging
+[258/1234] Wrapping AST for RoutingKit for debugging
+[259/1234] Wrapping AST for RealModule for debugging
+[260/1234] Wrapping AST for Metrics for debugging
+[261/1234] Wrapping AST for Logging for debugging
+[262/1234] Wrapping AST for InternalCollectionsUtilities for debugging
+[264/1234] Compiling OrderedCollections OrderedSet+Partial SetAlgebra isSuperset.swift
+[265/1234] Compiling OrderedCollections OrderedSet+Partial SetAlgebra subtract.swift
+[266/1234] Compiling OrderedCollections OrderedSet+Partial SetAlgebra subtracting.swift
+[267/1234] Compiling OrderedCollections OrderedSet+Partial SetAlgebra symmetricDifference.swift
+[268/1234] Compiling OrderedCollections OrderedSet+Partial SetAlgebra union.swift
+[269/1234] Compiling OrderedCollections OrderedSet+Partial SetAlgebra+Basics.swift
+[270/1234] Compiling OrderedCollections OrderedSet+RandomAccessCollection.swift
+[271/1234] Compiling OrderedCollections OrderedSet+ReserveCapacity.swift
+[272/1234] Compiling OrderedCollections OrderedSet+Sendable.swift
+[273/1234] Compiling OrderedCollections OrderedSet+SubSequence.swift
+[274/1234] Compiling OrderedCollections OrderedSet+Testing.swift
+[275/1234] Compiling _RopeModule _RopePath.swift
+[276/1234] Compiling _RopeModule _RopeVersion.swift
+[277/1234] Compiling _RopeModule Rope+Collection.swift
+[278/1234] Compiling _RopeModule Rope+Index.swift
+[278/1235] Wrapping AST for Instrumentation for debugging
+[280/1235] Wrapping AST for HeapModule for debugging
+[281/1235] Wrapping AST for DequeModule for debugging
+[282/1235] Wrapping AST for OrderedCollections for debugging
+[283/1235] Wrapping AST for CoreMetrics for debugging
+[284/1235] Compiling CNIOWindows shim.c
+[285/1235] Compiling CNIOWindows WSAStartup.c
+[286/1235] Compiling CNIOWASI CNIOWASI.c
+[287/1235] Compiling CNIOSHA1 c_nio_sha1.c
+[288/1235] Compiling CSystem shims.c
+[289/1235] Compiling CNIOLinux shim.c
+[290/1235] Compiling CNIOLinux liburing_shims.c
+[291/1259] Compiling CNIOLLHTTP c_nio_llhttp.c
+[292/1259] Compiling CNIOLLHTTP c_nio_http.c
+[293/1259] Compiling CNIOLLHTTP c_nio_api.c
+[294/1259] Compiling CNIOExtrasZlib empty.c
+[295/1259] Compiling CNIODarwin shim.c
+[297/1259] Compiling SystemPackage FilePathTempPosix.swift
+[298/1259] Compiling SystemPackage FilePathTempWindows.swift
+[299/1259] Compiling SystemPackage FilePathWindows.swift
+[300/1259] Compiling SystemPackage FilePermissions.swift
+[335/1259] Emitting module HashTreeCollections
+[336/1280] Compiling SystemPackage Backcompat.swift
+[337/1280] Compiling SystemPackage CInterop.swift
+[338/1280] Compiling SystemPackage Constants.swift
+[339/1280] Compiling SystemPackage Exports.swift
+[340/1280] Compiling SystemPackage Mocking.swift
+[341/1280] Compiling SystemPackage RawBuffer.swift
+[342/1280] Compiling SystemPackage Syscalls.swift
+[342/1287] Compiling CNIOBoringSSLShims shims.c
+[362/1287] Compiling _RopeModule Rope+Sequence.swift
+[363/1287] Compiling _RopeModule Rope+Append.swift
+[364/1287] Compiling _RopeModule Rope+Extract.swift
+[365/1287] Compiling SystemPackage Errno.swift
+[366/1287] Compiling SystemPackage ErrnoWindows.swift
+[367/1287] Compiling SystemPackage FileDescriptor.swift
+[368/1287] Compiling SystemPackage FileHelpers.swift
+[369/1287] Compiling SystemPackage FileOperations.swift
+[370/1287] Compiling SystemPackage FilePath.swift
+[371/1287] Compiling SystemPackage FilePathComponentView.swift
+[372/1287] Compiling SystemPackage FilePathComponents.swift
+[380/1287] Compiling SystemPackage FilePathParsing.swift
+[381/1287] Compiling SystemPackage FilePathString.swift
+[382/1287] Compiling SystemPackage FilePathSyntax.swift
+[383/1287] Compiling SystemPackage FilePathTemp.swift
+[388/1287] Compiling SystemPackage WindowsSyscallAdapters.swift
+[389/1287] Compiling SystemPackage MachPort.swift
+[390/1287] Compiling SystemPackage PlatformString.swift
+[391/1287] Compiling SystemPackage SystemString.swift
+[392/1287] Compiling SystemPackage Util+StringArray.swift
+[393/1287] Compiling SystemPackage Util.swift
+[394/1287] Compiling SystemPackage UtilConsumers.swift
+[407/1287] Compiling fiat_p256_adx_sqr.S
+[408/1287] Compiling fiat_p256_adx_mul.S
+[409/1287] Compiling fiat_curve25519_adx_square.S
+[410/1287] Compiling fiat_curve25519_adx_mul.S
+[412/1287] Emitting module SystemPackage
+[429/1287] Compiling HashTreeCollections TreeSet+Filter.swift
+[430/1287] Compiling HashTreeCollections TreeSet+Hashable.swift
+[431/1287] Compiling HashTreeCollections TreeSet+Sendable.swift
+[432/1287] Compiling HashTreeCollections TreeSet+Sequence.swift
+[433/1287] Compiling HashTreeCollections TreeSet+SetAlgebra Initializers.swift
+[434/1287] Compiling HashTreeCollections TreeSet+SetAlgebra basics.swift
+[435/1287] Compiling HashTreeCollections TreeSet+SetAlgebra formIntersection.swift
+[436/1287] Compiling HashTreeCollections TreeSet+SetAlgebra formSymmetricDifference.swift
+[437/1287] Compiling HashTreeCollections TreeSet+SetAlgebra formUnion.swift
+[438/1287] Compiling HashTreeCollections TreeSet+SetAlgebra intersection.swift
+[439/1287] Compiling HashTreeCollections TreeSet+SetAlgebra isDisjoint.swift
+[440/1287] Compiling HashTreeCollections TreeSet+SetAlgebra isEqualSet.swift
+[441/1287] Compiling HashTreeCollections TreeSet+SetAlgebra isStrictSubset.swift
+[442/1287] Compiling HashTreeCollections TreeSet+SetAlgebra isStrictSuperset.swift
+[443/1287] Compiling HashTreeCollections TreeSet+SetAlgebra isSubset.swift
+[444/1287] Compiling HashTreeCollections TreeSet+SetAlgebra isSuperset.swift
+[445/1287] Compiling HashTreeCollections TreeSet+SetAlgebra subtract.swift
+[446/1287] Compiling HashTreeCollections TreeSet+SetAlgebra subtracting.swift
+[447/1287] Compiling HashTreeCollections TreeSet+SetAlgebra symmetricDifference.swift
+[448/1287] Compiling HashTreeCollections TreeSet+SetAlgebra union.swift
+[449/1287] Compiling HashTreeCollections TreeSet.swift
+[478/1290] Wrapping AST for HashTreeCollections for debugging
+[479/1290] Wrapping AST for _RopeModule for debugging
+[480/1290] Wrapping AST for SystemPackage for debugging
+[481/1290] Compiling tls_method.cc
+[482/1290] Compiling tls_record.cc
+[483/1290] Compiling tls13_enc.cc
+[484/1290] Compiling tls13_server.cc
+[485/1290] Compiling t1_enc.cc
+[486/1290] Compiling tls13_both.cc
+[487/1290] Compiling tls13_client.cc
+[488/1290] Compiling ssl_x509.cc
+[489/1290] Compiling ssl_versions.cc
+[490/1290] Compiling ssl_transcript.cc
+[491/1290] Compiling ssl_stat.cc
+[492/1290] Compiling ssl_session.cc
+[493/1290] Compiling ssl_privkey.cc
+[494/1290] Compiling ssl_key_share.cc
+[495/1290] Compiling ssl_file.cc
+[496/1290] Compiling ssl_lib.cc
+[497/1290] Compiling ssl_credential.cc
+[498/1290] Compiling ssl_cipher.cc
+[499/1290] Compiling ssl_buffer.cc
+[500/1290] Compiling ssl_cert.cc
+[501/1290] Compiling ssl_asn1.cc
+[502/1290] Compiling ssl_aead_ctx.cc
+[503/1290] Compiling s3_pkt.cc
+[504/1290] Compiling s3_lib.cc
+[505/1290] Compiling s3_both.cc
+[506/1290] Compiling handshake_server.cc
+[507/1290] Compiling handshake_client.cc
+[508/1290] Compiling handshake.cc
+[509/1290] Compiling handoff.cc
+[510/1290] Compiling dtls_record.cc
+[511/1290] Compiling encrypted_client_hello.cc
+[512/1290] Compiling extensions.cc
+[513/1290] Compiling dtls_method.cc
+[514/1290] Compiling d1_srtp.cc
+[515/1290] Compiling d1_pkt.cc
+[516/1290] Compiling md5-x86_64-linux.S
+[517/1290] Compiling md5-x86_64-apple.S
+[518/1290] Compiling md5-586-linux.S
+[519/1290] Compiling md5-586-apple.S
+[520/1290] Compiling err_data.c
+[521/1290] Compiling d1_lib.cc
+[522/1290] Compiling chacha20_poly1305_x86_64-apple.S
+[523/1290] Compiling chacha20_poly1305_armv8-win.S
+[524/1290] Compiling chacha20_poly1305_x86_64-linux.S
+[525/1290] Compiling chacha20_poly1305_armv8-linux.S
+[526/1290] Compiling chacha20_poly1305_armv8-apple.S
+[527/1290] Compiling chacha-x86_64-apple.S
+[528/1290] Compiling chacha-x86_64-linux.S
+[529/1290] Compiling chacha-x86-linux.S
+[530/1290] Compiling chacha-x86-apple.S
+[531/1290] Compiling chacha-armv8-win.S
+[532/1290] Compiling chacha-armv8-linux.S
+[533/1290] Compiling chacha-armv8-apple.S
+[533/1290] Compiling chacha-armv4-linux.S
+[535/1290] Compiling aes128gcmsiv-x86_64-apple.S
+[536/1290] Compiling bio_ssl.cc
+[537/1290] Compiling aes128gcmsiv-x86_64-linux.S
+[538/1290] Compiling x86_64-mont5-apple.S
+[539/1290] Compiling x86_64-mont5-linux.S
+[540/1290] Compiling x86_64-mont-linux.S
+[541/1290] Compiling x86_64-mont-apple.S
+[542/1290] Compiling d1_both.cc
+[543/1290] Compiling x86-mont-apple.S
+[544/1290] Compiling x86-mont-linux.S
+[545/1290] Compiling vpaes-x86_64-apple.S
+[546/1290] Compiling vpaes-x86_64-linux.S
+[547/1290] Compiling vpaes-x86-linux.S
+[548/1290] Compiling vpaes-x86-apple.S
+[549/1290] Compiling vpaes-armv8-win.S
+[550/1290] Compiling vpaes-armv8-linux.S
+[551/1290] Compiling vpaes-armv8-apple.S
+[551/1290] Compiling vpaes-armv7-linux.S
+[553/1290] Compiling sha512-x86_64-apple.S
+[554/1290] Compiling sha512-armv8-win.S
+[554/1290] Compiling sha512-armv8-linux.S
+[556/1290] Compiling sha512-x86_64-linux.S
+[557/1290] Compiling sha512-armv8-apple.S
+[558/1290] Compiling sha512-586-linux.S
+[558/1290] Compiling sha512-586-apple.S
+[560/1290] Compiling sha512-armv4-linux.S
+[561/1290] Compiling sha256-x86_64-apple.S
+[562/1290] Compiling sha256-armv8-win.S
+[563/1290] Compiling sha256-armv8-linux.S
+[564/1290] Compiling sha256-x86_64-linux.S
+[565/1290] Compiling sha256-armv4-linux.S
+[566/1290] Compiling sha256-armv8-apple.S
+[567/1290] Compiling sha256-586-linux.S
+[568/1290] Compiling sha256-586-apple.S
+[569/1290] Compiling sha1-armv8-win.S
+[570/1290] Compiling sha1-x86_64-apple.S
+[571/1290] Compiling sha1-armv8-linux.S
+[572/1290] Compiling sha1-x86_64-linux.S
+[573/1290] Compiling sha1-armv4-large-linux.S
+[574/1290] Compiling sha1-armv8-apple.S
+[575/1290] Compiling sha1-586-linux.S
+[576/1290] Compiling sha1-586-apple.S
+[577/1290] Compiling rsaz-avx2-apple.S
+[578/1290] Compiling rdrand-x86_64-linux.S
+[579/1290] Compiling rsaz-avx2-linux.S
+[580/1290] Compiling rdrand-x86_64-apple.S
+[581/1290] Compiling p256_beeu-x86_64-asm-linux.S
+[582/1290] Compiling p256_beeu-x86_64-asm-apple.S
+[583/1290] Compiling p256_beeu-armv8-asm-win.S
+[584/1290] Compiling p256_beeu-armv8-asm-linux.S
+[585/1290] Compiling p256_beeu-armv8-asm-apple.S
+[586/1290] Compiling p256-x86_64-asm-apple.S
+[587/1290] Compiling p256-armv8-asm-win.S
+[588/1290] Compiling p256-x86_64-asm-linux.S
+[589/1290] Compiling p256-armv8-asm-linux.S
+[590/1290] Compiling p256-armv8-asm-apple.S
+[591/1290] Compiling ghashv8-armv8-win.S
+[592/1290] Compiling ghashv8-armv8-linux.S
+[593/1290] Compiling ghashv8-armv8-apple.S
+[594/1290] Compiling ghashv8-armv7-linux.S
+[595/1290] Compiling ghash-x86_64-apple.S
+[596/1290] Compiling ghash-x86_64-linux.S
+[597/1290] Compiling ghash-x86-linux.S
+[598/1290] Compiling ghash-x86-apple.S
+[598/1290] Compiling ghash-ssse3-x86_64-apple.S
+[600/1290] Compiling ghash-ssse3-x86_64-linux.S
+[601/1290] Compiling ghash-ssse3-x86-linux.S
+[602/1290] Compiling ghash-ssse3-x86-apple.S
+[602/1290] Compiling ghash-neon-armv8-linux.S
+[602/1290] Compiling ghash-neon-armv8-win.S
+[605/1290] Compiling ghash-neon-armv8-apple.S
+[606/1290] Compiling co-586-apple.S
+[606/1290] Compiling co-586-linux.S
+[608/1290] Compiling ghash-armv4-linux.S
+[609/1290] Compiling bsaes-armv7-linux.S
+[610/1290] Compiling bn-armv8-linux.S
+[610/1290] Compiling bn-armv8-win.S
+[610/1290] Compiling bn-armv8-apple.S
+[613/1290] Compiling bn-586-linux.S
+[614/1290] Compiling armv8-mont-win.S
+[615/1290] Compiling armv8-mont-linux.S
+[616/1290] Compiling bn-586-apple.S
+[617/1290] Compiling armv8-mont-apple.S
+[618/1290] Compiling aesv8-gcm-armv8-linux.S
+[619/1290] Compiling aesv8-gcm-armv8-win.S
+[620/1290] Compiling armv4-mont-linux.S
+[621/1290] Compiling aesv8-gcm-armv8-apple.S
+[622/1290] Compiling aesv8-armv8-win.S
+[622/1290] Compiling aesv8-armv8-linux.S
+[624/1290] Compiling aesv8-armv8-apple.S
+[625/1290] Compiling aesv8-armv7-linux.S
+[626/1290] Compiling aesni-x86_64-apple.S
+[626/1290] Compiling aesni-x86-linux.S
+[628/1290] Compiling aesni-x86_64-linux.S
+[629/1290] Compiling aesni-x86-apple.S
+[630/1290] Compiling aesni-gcm-x86_64-apple.S
+[631/1290] Compiling aesni-gcm-x86_64-linux.S
+[632/1290] Compiling x_x509a.c
+[633/1290] Compiling x_val.c
+[634/1290] Compiling x_spki.c
+[634/1290] Compiling x_x509.c
+[636/1290] Compiling x_sig.c
+[637/1290] Compiling x_req.c
+[637/1290] Compiling x_pubkey.c
+[639/1290] Compiling x_name.c
+[640/1290] Compiling x_exten.c
+[641/1290] Compiling x_attrib.c
+[642/1290] Compiling x_crl.c
+[643/1290] Compiling x_all.c
+[644/1290] Compiling x_algor.c
+[645/1290] Compiling x509spki.c
+[646/1290] Compiling x509rset.c
+[647/1290] Compiling x509name.c
+[648/1290] Compiling x509cset.c
+[649/1290] Compiling x509_vpm.c
+[650/1290] Compiling x509_v3.c
+[650/1290] Compiling x509_vfy.c
+[652/1290] Compiling x509_txt.c
+[653/1290] Compiling x509_trs.c
+[654/1290] Compiling x509_set.c
+[655/1290] Compiling x509_req.c
+[656/1290] Compiling x509_obj.c
+[657/1290] Compiling x509_lu.c
+[658/1290] Compiling x509_def.c
+[659/1290] Compiling x509_d2.c
+[659/1290] Compiling x509_ext.c
+[661/1290] Compiling x509_cmp.c
+[662/1290] Compiling x509.c
+[663/1290] Compiling x509_att.c
+[664/1290] Compiling v3_utl.c
+[665/1290] Compiling v3_prn.c
+[666/1290] Compiling v3_skey.c
+[667/1290] Compiling v3_purp.c
+[668/1290] Compiling v3_pmaps.c
+[669/1290] Compiling v3_ocsp.c
+[670/1290] Compiling v3_pcons.c
+[671/1290] Compiling v3_ncons.c
+[672/1290] Compiling v3_int.c
+[672/1290] Compiling v3_lib.c
+[674/1290] Compiling v3_info.c
+[675/1290] Compiling v3_ia5.c
+[676/1290] Compiling v3_extku.c
+[677/1290] Compiling v3_genn.c
+[678/1290] Compiling v3_enum.c
+[679/1290] Compiling v3_crld.c
+[680/1290] Compiling v3_cpols.c
+[681/1290] Compiling v3_conf.c
+[682/1290] Compiling v3_bitst.c
+[683/1290] Compiling v3_bcons.c
+[684/1290] Compiling v3_akeya.c
+[685/1290] Compiling v3_alt.c
+[686/1290] Compiling v3_akey.c
+[687/1290] Compiling t_x509a.c
+[688/1290] Compiling t_x509.c
+[689/1290] Compiling t_req.c
+[690/1290] Compiling t_crl.c
+[691/1290] Compiling i2d_pr.c
+[691/1290] Compiling rsa_pss.c
+[693/1290] Compiling name_print.c
+[694/1290] Compiling policy.c
+[695/1290] Compiling by_file.c
+[696/1290] Compiling by_dir.c
+[697/1290] Compiling asn1_gen.c
+[698/1290] Compiling algorithm.c
+[699/1290] Compiling a_verify.c
+[700/1290] Compiling a_sign.c
+[701/1290] Compiling a_digest.c
+[702/1290] Compiling voprf.c
+[703/1290] Compiling thread_win.c
+[704/1290] Compiling trust_token.c
+[705/1290] Compiling thread_pthread.c
+[706/1290] Compiling thread.c
+[707/1290] Compiling thread_none.c
+[707/1290] Compiling pmbtoken.c
+[709/1290] Compiling stack.c
+[710/1290] Compiling spx_util.c
+[711/1290] Compiling spx_wots.c
+[712/1290] Compiling spx_thash.c
+[713/1290] Compiling spx_merkle.c
+[714/1290] Compiling spx_fors.c
+[715/1290] Compiling spx.c
+[716/1290] Compiling spx_address.c
+[717/1290] Compiling thash.c
+[717/1290] Compiling wots.c
+[719/1290] Compiling merkle.c
+[719/1290] Compiling slhdsa.c
+[721/1290] Compiling siphash.c
+[722/1290] Compiling sha256.c
+[722/1290] Compiling sha512.c
+[724/1290] Compiling fors.c
+[725/1290] Compiling sha1.c
+[726/1290] Compiling rsa_extra.c
+[727/1290] Compiling rsa_print.c
+[728/1290] Compiling rc4.c
+[729/1290] Compiling rsa_crypt.c
+[730/1290] Compiling refcount.c
+[731/1290] Compiling rsa_asn1.c
+[732/1290] Compiling trusty.c
+[733/1290] Compiling windows.c
+[734/1290] Compiling rand_extra.c
+[735/1290] Compiling urandom.c
+[736/1290] Compiling getentropy.c
+[736/1290] Compiling ios.c
+[738/1290] Compiling passive.c
+[739/1290] Compiling forkunsafe.c
+[740/1290] Compiling deterministic.c
+[741/1290] Compiling fork_detect.c
+[742/1290] Compiling poly1305_arm_asm.S
+[743/1290] Compiling pool.c
+[744/1290] Compiling poly1305_arm.c
+[745/1290] Compiling poly1305.c
+[746/1290] Compiling poly1305_vec.c
+[747/1290] Compiling pkcs8_x509.c
+[748/1290] Compiling p5_pbev2.c
+[749/1290] Compiling pkcs8.c
+[750/1290] Compiling pkcs7.c
+[751/1290] Compiling pkcs7_x509.c
+[752/1290] Compiling pem_xaux.c
+[753/1290] Compiling pem_x509.c
+[754/1290] Compiling pem_pkey.c
+[755/1290] Compiling pem_pk8.c
+[756/1290] Compiling pem_oth.c
+[757/1290] Compiling pem_lib.c
+[758/1290] Compiling obj_xref.c
+[759/1290] Compiling pem_info.c
+[760/1290] Compiling pem_all.c
+[761/1290] Compiling mldsa.c
+[762/1290] Compiling obj.c
+[763/1290] Compiling md5.c
+[764/1290] Compiling mem.c
+[765/1290] Compiling md4.c
+[766/1290] Compiling lhash.c
+[767/1290] Compiling kyber.c
+[768/1290] Compiling mlkem.cc
+[769/1290] Compiling keccak.c
+[770/1290] Compiling fips_shared_support.c
+[771/1290] Compiling poly_rq_mul.S
+[772/1290] Compiling hpke.c
+[773/1290] Compiling ex_data.c
+[774/1290] Compiling hrss.c
+[775/1290] Compiling sign.c
+[776/1290] Compiling scrypt.c
+[777/1290] Compiling print.c
+[778/1290] Compiling pbkdf.c
+[779/1290] Compiling p_x25519_asn1.c
+[780/1290] Compiling p_x25519.c
+[781/1290] Compiling p_rsa_asn1.c
+[782/1290] Compiling p_rsa.c
+[783/1290] Compiling p_hkdf.c
+[784/1290] Compiling p_ed25519_asn1.c
+[785/1290] Compiling p_ed25519.c
+[786/1290] Compiling p_ec_asn1.c
+[787/1290] Compiling p_ec.c
+[788/1290] Compiling p_dsa_asn1.c
+[789/1290] Compiling p_dh_asn1.c
+[790/1290] Compiling p_dh.c
+[791/1290] Compiling evp_ctx.c
+[792/1290] Compiling evp_asn1.c
+[793/1290] Compiling evp.c
+[794/1290] Compiling err.c
+[795/1290] Compiling engine.c
+[796/1290] Compiling ecdsa_asn1.c
+[797/1290] Compiling ecdh_extra.c
+[798/1290] Compiling hash_to_curve.c
+[799/1290] Compiling ec_derive.c
+[800/1290] Compiling ec_asn1.c
+[801/1290] Compiling dsa_asn1.c
+[802/1290] Compiling dsa.c
+[803/1290] Compiling dilithium.c
+[804/1290] Compiling digest_extra.c
+[805/1290] Compiling params.c
+[806/1290] Compiling dh_asn1.c
+[807/1290] Compiling spake25519.c
+[808/1290] Compiling des.c
+[809/1290] Compiling x25519-asm-arm.S
+[810/1290] Compiling crypto.c
+[811/1290] Compiling cpu_intel.c
+[812/1290] Compiling curve25519.c
+[813/1290] Compiling cpu_arm_freebsd.c
+[814/1290] Compiling cpu_arm_linux.c
+[815/1290] Compiling cpu_aarch64_sysreg.c
+[816/1290] Compiling cpu_aarch64_win.c
+[817/1290] Compiling cpu_aarch64_openbsd.c
+[818/1290] Compiling cpu_aarch64_linux.c
+[819/1290] Compiling cpu_aarch64_fuchsia.c
+[820/1290] Compiling cpu_aarch64_apple.c
+[821/1290] Compiling bcm.c
+[822/1290] Compiling tls_cbc.c
+[823/1290] Compiling conf.c
+[824/1290] Compiling e_tls.c
+[825/1290] Compiling e_rc4.c
+[826/1290] Compiling e_null.c
+[827/1290] Compiling e_rc2.c
+[828/1290] Compiling e_des.c
+[829/1290] Compiling e_aesgcmsiv.c
+[830/1290] Compiling e_chacha20poly1305.c
+[831/1290] Compiling e_aesctrhmac.c
+[832/1290] Compiling derive_key.c
+[833/1290] Compiling chacha.c
+[834/1290] Compiling unicode.c
+[834/1290] Compiling cipher_extra.c
+[836/1290] Compiling ber.c
+[837/1290] Compiling cbs.c
+[838/1290] Compiling cbb.c
+[839/1290] Compiling asn1_compat.c
+[840/1290] Compiling curve25519_64_adx.c
+[841/1290] Compiling buf.c
+[842/1290] Compiling bn_asn1.c
+[843/1290] Compiling convert.c
+[844/1290] Compiling blake2.c
+[845/1290] Compiling socket.c
+[846/1290] Compiling printf.c
+[847/1290] Compiling socket_helper.c
+[848/1290] Compiling pair.c
+[849/1290] Compiling hexdump.c
+[850/1290] Compiling file.c
+[851/1290] Compiling errno.c
+[851/1290] Compiling fd.c
+[853/1290] Compiling bio_mem.c
+[854/1290] Compiling connect.c
+[855/1290] Compiling base64.c
+[856/1290] Compiling bio.c
+[857/1290] Compiling tasn_utl.c
+[858/1290] Compiling tasn_typ.c
+[859/1290] Compiling tasn_new.c
+[860/1290] Compiling tasn_fre.c
+[861/1290] Compiling f_string.c
+[861/1290] Compiling posix_time.c
+[863/1290] Compiling tasn_enc.c
+[864/1290] Compiling tasn_dec.c
+[865/1290] Compiling asn_pack.c
+[865/1290] Compiling f_int.c
+[867/1290] Compiling asn1_par.c
+[868/1290] Compiling asn1_lib.c
+[869/1290] Compiling a_time.c
+[870/1290] Compiling a_utctm.c
+[871/1290] Compiling a_type.c
+[872/1290] Compiling a_octet.c
+[873/1290] Compiling a_strnid.c
+[874/1290] Compiling a_strex.c
+[875/1290] Compiling a_object.c
+[876/1290] Compiling a_mbstr.c
+[877/1290] Compiling a_i2d_fp.c
+[878/1290] Compiling a_gentm.c
+[878/1290] Compiling a_int.c
+[880/1290] Compiling a_dup.c
+[881/1290] Compiling a_bool.c
+[881/1290] Compiling a_d2i_fp.c
+[883/1290] Compiling a_bitstr.c
+[884/1290] Compiling fiat_p256_adx_sqr.S
+[885/1290] Compiling fiat_p256_adx_mul.S
+[886/1290] Compiling fiat_curve25519_adx_square.S
+[887/1290] Compiling fiat_curve25519_adx_mul.S
+[888/1290] Compiling md5-x86_64-linux.S
+[889/1290] Compiling CCryptoBoringSSLShims shims.c
+[890/1290] Compiling md5-x86_64-apple.S
+[891/1290] Compiling md5-586-linux.S
+[892/1290] Compiling md5-586-apple.S
+[893/1290] Compiling err_data.c
+[894/1290] Compiling chacha20_poly1305_x86_64-linux.S
+[895/1290] Compiling chacha20_poly1305_x86_64-apple.S
+[896/1290] Compiling chacha20_poly1305_armv8-win.S
+[897/1290] Compiling chacha20_poly1305_armv8-linux.S
+[898/1290] Compiling chacha20_poly1305_armv8-apple.S
+[899/1290] Compiling chacha-x86_64-linux.S
+[900/1290] Compiling chacha-x86_64-apple.S
+[901/1290] Compiling chacha-x86-linux.S
+[902/1290] Compiling chacha-x86-apple.S
+[903/1290] Compiling chacha-armv8-win.S
+[904/1290] Compiling chacha-armv8-linux.S
+[905/1290] Compiling chacha-armv8-apple.S
+[906/1290] Compiling chacha-armv4-linux.S
+[907/1290] Compiling aes128gcmsiv-x86_64-linux.S
+[908/1290] Compiling aes128gcmsiv-x86_64-apple.S
+[909/1290] Compiling x86_64-mont5-linux.S
+[910/1290] Compiling x86_64-mont5-apple.S
+[911/1290] Compiling x86_64-mont-apple.S
+[912/1290] Compiling x86_64-mont-linux.S
+[913/1290] Compiling x86-mont-linux.S
+[914/1290] Compiling x86-mont-apple.S
+[915/1290] Compiling vpaes-x86_64-linux.S
+[916/1290] Compiling vpaes-x86_64-apple.S
+[917/1290] Compiling vpaes-x86-linux.S
+[918/1290] Compiling vpaes-x86-apple.S
+[919/1290] Compiling vpaes-armv8-win.S
+[920/1290] Compiling vpaes-armv8-linux.S
+[921/1290] Compiling vpaes-armv8-apple.S
+[922/1290] Compiling vpaes-armv7-linux.S
+[923/1290] Compiling sha512-x86_64-linux.S
+[924/1290] Compiling sha512-x86_64-apple.S
+[925/1290] Compiling sha512-armv8-win.S
+[925/1290] Compiling sha512-armv8-linux.S
+[927/1290] Compiling sha512-armv8-apple.S
+[928/1290] Compiling sha512-armv4-linux.S
+[929/1290] Compiling sha512-586-apple.S
+[929/1290] Compiling sha512-586-linux.S
+[931/1290] Compiling sha256-x86_64-apple.S
+[932/1290] Compiling sha256-x86_64-linux.S
+[933/1290] Compiling sha256-armv8-win.S
+[934/1290] Compiling sha256-armv8-linux.S
+[935/1290] Compiling sha256-armv8-apple.S
+[936/1290] Compiling sha256-armv4-linux.S
+[937/1290] Compiling sha256-586-linux.S
+[938/1290] Compiling sha256-586-apple.S
+[939/1290] Compiling sha1-x86_64-apple.S
+[940/1290] Compiling sha1-x86_64-linux.S
+[941/1290] Compiling sha1-armv8-win.S
+[942/1290] Compiling sha1-armv8-linux.S
+[943/1290] Compiling sha1-armv8-apple.S
+[944/1290] Compiling sha1-armv4-large-linux.S
+[945/1290] Compiling sha1-586-linux.S
+[945/1290] Compiling sha1-586-apple.S
+[947/1290] Compiling rsaz-avx2-apple.S
+[948/1290] Compiling rsaz-avx2-linux.S
+[949/1290] Compiling rdrand-x86_64-linux.S
+[950/1290] Compiling rdrand-x86_64-apple.S
+[951/1290] Compiling p256_beeu-x86_64-asm-linux.S
+[952/1290] Compiling p256_beeu-x86_64-asm-apple.S
+[953/1290] Compiling p256_beeu-armv8-asm-win.S
+[954/1290] Compiling p256_beeu-armv8-asm-linux.S
+[955/1290] Compiling p256_beeu-armv8-asm-apple.S
+[956/1290] Compiling p256-x86_64-asm-linux.S
+[957/1290] Compiling p256-x86_64-asm-apple.S
+[958/1290] Compiling p256-armv8-asm-win.S
+[959/1290] Compiling p256-armv8-asm-linux.S
+[960/1290] Compiling p256-armv8-asm-apple.S
+[961/1290] Compiling ghashv8-armv8-win.S
+[962/1290] Compiling ghashv8-armv8-linux.S
+[963/1290] Compiling ghashv8-armv8-apple.S
+[964/1290] Compiling ghashv8-armv7-linux.S
+[965/1290] Compiling ghash-x86_64-linux.S
+[966/1290] Compiling c-nioatomics.c
+[967/1290] Compiling ghash-x86_64-apple.S
+[968/1290] Compiling ghash-x86-linux.S
+[969/1290] Compiling ghash-x86-apple.S
+[970/1290] Compiling ghash-ssse3-x86_64-linux.S
+[971/1290] Compiling ghash-ssse3-x86_64-apple.S
+[972/1290] Compiling ghash-ssse3-x86-linux.S
+[973/1290] Compiling ghash-ssse3-x86-apple.S
+[974/1290] Compiling ghash-neon-armv8-win.S
+[975/1290] Compiling ghash-neon-armv8-linux.S
+[976/1290] Compiling ghash-neon-armv8-apple.S
+[977/1290] Compiling ghash-armv4-linux.S
+[978/1290] Compiling co-586-linux.S
+[979/1290] Compiling co-586-apple.S
+[980/1290] Compiling bsaes-armv7-linux.S
+[981/1290] Compiling bn-armv8-win.S
+[982/1290] Compiling bn-armv8-linux.S
+[982/1290] Compiling bn-armv8-apple.S
+[984/1290] Compiling bn-586-linux.S
+[985/1290] Compiling bn-586-apple.S
+[986/1290] Compiling armv8-mont-win.S
+[987/1290] Compiling armv8-mont-linux.S
+[988/1290] Compiling armv8-mont-apple.S
+[989/1290] Compiling armv4-mont-linux.S
+[990/1290] Compiling aesv8-gcm-armv8-win.S
+[991/1290] Compiling aesv8-gcm-armv8-linux.S
+[992/1290] Compiling aesv8-gcm-armv8-apple.S
+[993/1290] Compiling aesv8-armv8-win.S
+[994/1290] Compiling aesv8-armv8-linux.S
+[995/1290] Compiling aesv8-armv8-apple.S
+[996/1290] Compiling aesv8-armv7-linux.S
+[997/1290] Compiling aesni-x86_64-apple.S
+[998/1290] Compiling aesni-x86-linux.S
+[999/1290] Compiling aesni-x86_64-linux.S
+[1000/1290] Compiling c-atomics.c
+[1001/1290] Compiling aesni-x86-apple.S
+[1002/1290] Compiling aesni-gcm-x86_64-apple.S
+[1003/1290] Compiling aesni-gcm-x86_64-linux.S
+[1004/1290] Compiling x_x509a.c
+[1005/1291] Compiling x_val.c
+[1006/1295] Compiling x_x509.c
+[1007/1295] Compiling x_spki.c
+[1008/1295] Compiling x_sig.c
+[1009/1295] Compiling x_req.c
+[1010/1295] Compiling x_pubkey.c
+[1011/1295] Compiling x_name.c
+[1012/1295] Compiling x_crl.c
+[1014/1295] Compiling NIOConcurrencyHelpers NIOLockedValueBox.swift
+[1015/1295] Compiling NIOConcurrencyHelpers atomics.swift
+[1015/1296] Compiling x_attrib.c
+[1016/1296] Compiling x_exten.c
+[1018/1296] Emitting module NIOConcurrencyHelpers
+[1019/1296] Compiling NIOConcurrencyHelpers NIOAtomic.swift
+[1020/1296] Compiling NIOConcurrencyHelpers NIOLock.swift
+[1020/1296] Compiling x_algor.c
+[1021/1296] Compiling x509spki.c
+[1022/1296] Compiling x_all.c
+[1024/1296] Compiling NIOConcurrencyHelpers lock.swift
+[1024/1297] Compiling x509rset.c
+[1026/1297] Compiling x509name.c
+[1027/1297] Compiling x509cset.c
+[1028/1297] Compiling x509_vpm.c
+[1029/1297] Wrapping AST for NIOConcurrencyHelpers for debugging
+[1030/1297] Compiling x509_vfy.c
+[1031/1319] Compiling x509_txt.c
+[1032/1319] Compiling x509_v3.c
+[1033/1319] Compiling x509_trs.c
+[1034/1319] Compiling x509_set.c
+[1035/1319] Compiling x509_req.c
+[1036/1319] Compiling x509_lu.c
+[1037/1319] Compiling x509_obj.c
+[1038/1319] Compiling x509_ext.c
+[1040/1319] Compiling ConsoleKitTerminal Console+Clear.swift
+[1041/1319] Compiling ConsoleKitTerminal Console+Ephemeral.swift
+[1042/1319] Compiling ConsoleKitTerminal ConsoleClear.swift
+[1043/1319] Compiling ConsoleKitTerminal Console+Ask.swift
+[1044/1319] Compiling ConsoleKitTerminal Console+Choose.swift
+[1045/1319] Compiling ConsoleKitTerminal Console+Confirm.swift
+[1046/1319] Compiling ConsoleKitTerminal Console+Input.swift
+[1047/1319] Compiling ConsoleKitTerminal Console+Center.swift
+[1048/1319] Compiling ConsoleKitTerminal Console+Output.swift
+[1049/1319] Compiling ConsoleKitTerminal Console+Wait.swift
+[1050/1319] Compiling ConsoleKitTerminal ConsoleColor.swift
+[1051/1319] Compiling ConsoleKitTerminal ConsoleStyle.swift
+[1052/1319] Compiling ConsoleKitTerminal ConsoleText.swift
+[1053/1319] Compiling ConsoleKitTerminal ConsoleTextFragment.swift
+[1054/1326] Emitting module ConsoleKitTerminal
+[1055/1326] Compiling ConsoleKitTerminal ActivityBar.swift
+[1056/1326] Compiling ConsoleKitTerminal ActivityIndicator.swift
+[1057/1326] Compiling ConsoleKitTerminal ActivityIndicatorRenderer.swift
+[1058/1326] Compiling ConsoleKitTerminal ActivityIndicatorState.swift
+[1059/1326] Compiling ConsoleKitTerminal CustomActivity.swift
+[1060/1326] Compiling ConsoleKitTerminal LoadingBar.swift
+[1061/1326] Compiling ConsoleKitTerminal ProgressBar.swift
+[1061/1326] Compiling x509_def.c
+[1062/1326] Compiling x509_d2.c
+[1063/1326] Compiling x509_cmp.c
+[1064/1326] Compiling x509_att.c
+[1065/1326] Compiling x509.c
+[1066/1326] Compiling v3_utl.c
+[1067/1326] Compiling v3_skey.c
+[1068/1326] Compiling v3_purp.c
+[1069/1326] Compiling v3_prn.c
+[1070/1326] Compiling v3_pmaps.c
+[1071/1326] Compiling v3_pcons.c
+[1072/1326] Compiling v3_ocsp.c
+[1073/1326] Compiling v3_ncons.c
+[1074/1326] Compiling v3_lib.c
+[1075/1326] Compiling v3_int.c
+[1076/1326] Compiling v3_info.c
+[1078/1326] Compiling ConsoleKitTerminal ANSI.swift
+[1079/1326] Compiling ConsoleKitTerminal Console.swift
+[1080/1326] Compiling ConsoleKitTerminal Terminal.swift
+[1081/1326] Compiling ConsoleKitTerminal readpassphrase_linux.swift
+[1082/1326] Compiling ConsoleKitTerminal AnySendableHashable.swift
+[1083/1326] Compiling ConsoleKitTerminal ConsoleLogger.swift
+[1084/1326] Compiling ConsoleKitTerminal LoggerFragment.swift
+[1085/1327] Compiling v3_ia5.c
+[1086/1327] Compiling v3_genn.c
+[1087/1327] Compiling v3_extku.c
+[1088/1327] Wrapping AST for ConsoleKitTerminal for debugging
+[1089/1346] Compiling v3_crld.c
+[1090/1346] Compiling v3_enum.c
+[1091/1346] Compiling v3_cpols.c
+[1092/1346] Compiling v3_bitst.c
+[1093/1346] Compiling v3_conf.c
+[1094/1346] Compiling v3_bcons.c
+[1095/1346] Compiling v3_alt.c
+[1096/1346] Compiling v3_akeya.c
+[1097/1346] Compiling t_x509a.c
+[1098/1346] Compiling v3_akey.c
+[1100/1346] Compiling ConsoleKitCommands AnyAsyncCommand.swift
+[1101/1346] Compiling ConsoleKitCommands AsyncCommand.swift
+[1102/1346] Compiling ConsoleKitCommands AsyncCommandGroup.swift
+[1103/1346] Compiling ConsoleKitCommands AsyncCommands.swift
+[1104/1346] Compiling ConsoleKitCommands GenerateAsyncAutocompleteCommand.swift
+[1105/1346] Compiling ConsoleKitCommands AnyCommand.swift
+[1106/1346] Emitting module ConsoleKitCommands
+[1106/1351] Compiling t_x509.c
+[1108/1351] Compiling ConsoleKitCommands Command.swift
+[1109/1351] Compiling ConsoleKitCommands CommandContext.swift
+[1110/1351] Compiling ConsoleKitCommands CommandError.swift
+[1111/1351] Compiling ConsoleKitCommands CommandGroup.swift
+[1112/1351] Compiling ConsoleKitCommands CommandInput.swift
+[1113/1351] Compiling ConsoleKitCommands Commands.swift
+[1113/1351] Compiling t_crl.c
+[1114/1351] Compiling t_req.c
+[1115/1351] Compiling rsa_pss.c
+[1116/1351] Compiling policy.c
+[1118/1351] Compiling ConsoleKitCommands CommandSignature.swift
+[1119/1351] Compiling ConsoleKitCommands Flag.swift
+[1120/1351] Compiling ConsoleKitCommands Option.swift
+[1121/1351] Compiling ConsoleKitCommands String+LevenshteinDistance.swift
+[1122/1351] Compiling ConsoleKitCommands Utilities.swift
+[1122/1351] Compiling name_print.c
+[1123/1351] Compiling i2d_pr.c
+[1124/1351] Compiling by_file.c
+[1125/1351] Compiling by_dir.c
+[1126/1351] Compiling asn1_gen.c
+[1127/1351] Compiling algorithm.c
+[1128/1351] Compiling a_verify.c
+[1130/1351] Compiling ConsoleKitCommands Console+Run.swift
+[1131/1351] Compiling ConsoleKitCommands ConsoleError.swift
+[1132/1351] Compiling ConsoleKitCommands Completion.swift
+[1133/1351] Compiling ConsoleKitCommands GenerateAutocompleteCommand.swift
+[1134/1351] Compiling ConsoleKitCommands MergedAsyncCommandGroup.swift
+[1135/1351] Compiling ConsoleKitCommands Argument.swift
+[1135/1351] Compiling a_digest.c
+[1136/1352] Compiling voprf.c
+[1137/1352] Compiling a_sign.c
+[1138/1352] Compiling thread_win.c
+[1140/1352] Compiling thread_pthread.c
+[1141/1352] Compiling trust_token.c
+[1142/1352] Compiling thread_none.c
+[1143/1352] Compiling thread.c
+[1144/1352] Compiling pmbtoken.c
+[1145/1352] Wrapping AST for ConsoleKitCommands for debugging
+[1146/1352] Compiling spx_wots.c
+[1147/1352] Compiling spx_util.c
+[1148/1352] Compiling stack.c
+[1149/1352] Compiling spx_thash.c
+[1150/1352] Compiling spx_merkle.c
+[1151/1352] Compiling spx_fors.c
+[1152/1352] Compiling spx_address.c
+[1153/1352] Compiling wots.c
+[1154/1352] Compiling spx.c
+[1155/1354] Compiling slhdsa.c
+[1156/1354] Compiling thash.c
+[1158/1354] Emitting module ConsoleKit
+[1158/1354] Compiling fors.c
+[1159/1354] Compiling merkle.c
+[1161/1354] Compiling ConsoleKit Exports.swift
+[1161/1355] Compiling siphash.c
+[1162/1355] Compiling sha256.c
+[1163/1355] Compiling sha1.c
+[1164/1355] Compiling sha512.c
+[1166/1355] Compiling rsa_extra.c
+[1167/1355] Compiling rsa_print.c
+[1168/1355] Compiling rsa_asn1.c
+[1169/1355] Wrapping AST for ConsoleKit for debugging
+[1170/1355] Compiling refcount.c
+[1171/1355] Compiling rsa_crypt.c
+[1172/1355] Compiling rc4.c
+[1173/1355] Compiling windows.c
+[1174/1355] Compiling urandom.c
+[1175/1355] Compiling rand_extra.c
+[1176/1355] Compiling trusty.c
+[1177/1355] Compiling passive.c
+[1178/1355] Compiling ios.c
+[1179/1355] Compiling getentropy.c
+[1180/1355] Compiling deterministic.c
+[1181/1355] Compiling fork_detect.c
+[1182/1355] Compiling forkunsafe.c
+[1183/1355] Compiling poly1305_arm_asm.S
+[1184/1355] Compiling pool.c
+[1185/1355] Compiling poly1305_arm.c
+[1186/1355] Compiling poly1305.c
+[1187/1355] Compiling poly1305_vec.c
+[1188/1355] Compiling pkcs8.c
+[1189/1355] Compiling pkcs7.c
+[1190/1355] Compiling pkcs7_x509.c
+[1191/1355] Compiling pkcs8_x509.c
+[1192/1355] Compiling p5_pbev2.c
+[1193/1355] Compiling pem_pkey.c
+[1194/1355] Compiling pem_x509.c
+[1195/1355] Compiling pem_xaux.c
+[1196/1355] Compiling pem_pk8.c
+[1197/1355] Compiling pem_oth.c
+[1197/1355] Compiling pem_info.c
+[1199/1355] Compiling obj_xref.c
+[1200/1355] Compiling pem_all.c
+[1201/1355] Compiling pem_lib.c
+[1202/1355] Compiling obj.c
+[1203/1355] Compiling mldsa.c
+[1204/1355] Compiling md5.c
+[1205/1355] Compiling mem.c
+[1206/1355] Compiling md4.c
+[1207/1355] Compiling lhash.c
+[1208/1355] Compiling kyber.c
+[1209/1355] Compiling poly_rq_mul.S
+[1210/1355] Compiling keccak.c
+[1211/1355] Compiling fips_shared_support.c
+[1212/1355] Compiling hrss.c
+[1213/1355] Compiling hpke.c
+[1214/1355] Compiling ex_data.c
+[1215/1355] Compiling sign.c
+[1216/1355] Compiling scrypt.c
+[1217/1355] Compiling print.c
+[1218/1355] Compiling pbkdf.c
+[1219/1355] Compiling p_x25519_asn1.c
+[1220/1355] Compiling p_x25519.c
+[1221/1355] Compiling p_rsa_asn1.c
+[1222/1355] Compiling p_hkdf.c
+[1223/1355] Compiling p_rsa.c
+[1224/1355] Compiling p_ed25519_asn1.c
+[1225/1355] Compiling p_ed25519.c
+[1226/1355] Compiling p_ec_asn1.c
+[1227/1355] Compiling p_ec.c
+[1228/1355] Compiling p_dh_asn1.c
+[1229/1355] Compiling p_dh.c
+[1230/1355] Compiling p_dsa_asn1.c
+[1231/1355] Compiling evp_ctx.c
+[1232/1355] Compiling evp_asn1.c
+[1233/1355] Compiling evp.c
+[1234/1355] Compiling err.c
+[1235/1355] Compiling engine.c
+[1236/1355] Compiling ecdsa_asn1.c
+[1237/1355] Compiling ecdh_extra.c
+[1238/1355] Compiling hash_to_curve.c
+[1239/1355] Compiling ec_derive.c
+[1240/1355] Compiling ec_asn1.c
+[1241/1355] Compiling dsa_asn1.c
+[1242/1355] Compiling dsa.c
+[1243/1355] Compiling digest_extra.c
+[1244/1355] Compiling dilithium.c
+[1245/1355] Compiling dh_asn1.c
+[1246/1355] Compiling params.c
+[1247/1355] Compiling spake25519.c
+[1248/1355] Compiling des.c
+[1249/1355] Compiling x25519-asm-arm.S
+[1250/1355] Compiling crypto.c
+[1251/1355] Compiling curve25519.c
+[1252/1355] Compiling cpu_intel.c
+[1253/1355] Compiling cpu_arm_linux.c
+[1254/1355] Compiling cpu_aarch64_win.c
+[1255/1355] Compiling cpu_arm_freebsd.c
+[1256/1355] Compiling curve25519_64_adx.c
+[1257/1355] Compiling cpu_aarch64_sysreg.c
+[1258/1355] Compiling cpu_aarch64_openbsd.c
+[1259/1355] Compiling cpu_aarch64_linux.c
+[1260/1355] Compiling cpu_aarch64_apple.c
+[1261/1355] Compiling cpu_aarch64_fuchsia.c
+[1262/1355] Compiling conf.c
+[1263/1355] Compiling tls_cbc.c
+[1264/1355] Compiling e_tls.c
+[1265/1355] Compiling e_rc4.c
+[1266/1355] Compiling bcm.c
+[1267/1355] Compiling e_null.c
+[1268/1355] Compiling e_des.c
+[1269/1355] Compiling e_rc2.c
+[1270/1355] Compiling e_chacha20poly1305.c
+[1271/1355] Compiling derive_key.c
+[1272/1355] Compiling cipher_extra.c
+[1273/1355] Compiling e_aesctrhmac.c
+[1274/1355] Compiling e_aesgcmsiv.c
+[1275/1355] Compiling unicode.c
+[1276/1355] Compiling chacha.c
+[1277/1355] Compiling ber.c
+[1278/1355] Compiling asn1_compat.c
+[1279/1355] Compiling cbb.c
+[1280/1355] Compiling cbs.c
+[1281/1355] Compiling buf.c
+[1282/1355] Compiling bn_asn1.c
+[1283/1355] Compiling printf.c
+[1284/1355] Compiling blake2.c
+[1285/1355] Compiling convert.c
+[1286/1355] Compiling pair.c
+[1287/1355] Compiling hexdump.c
+[1288/1355] Compiling errno.c
+[1289/1355] Compiling fd.c
+[1290/1355] Compiling file.c
+[1291/1355] Compiling bio.c
+[1292/1355] Compiling tasn_typ.c
+[1293/1355] Compiling tasn_fre.c
+[1294/1355] Compiling tasn_new.c
+[1295/1355] Compiling tasn_enc.c
+[1296/1355] Compiling posix_time.c
+[1297/1355] Compiling f_string.c
+[1298/1355] Compiling f_int.c
+[1299/1355] Compiling asn_pack.c
+[1300/1355] Compiling tasn_dec.c
+[1301/1355] Compiling asn1_par.c
+[1302/1355] Compiling a_utctm.c
+[1303/1355] Compiling a_time.c
+[1304/1355] Compiling a_type.c
+[1305/1355] Compiling a_octet.c
+[1306/1355] Compiling a_strex.c
+[1307/1355] Compiling a_object.c
+[1308/1355] Compiling a_strnid.c
+[1309/1355] Compiling a_mbstr.c
+[1310/1355] Compiling a_i2d_fp.c
+[1311/1355] Compiling a_dup.c
+[1312/1355] Compiling a_int.c
+[1313/1355] Compiling a_d2i_fp.c
+[1314/1355] Compiling a_bool.c
+[1315/1355] Write sources
+[1316/1355] Compiling CAsyncHTTPClient CAsyncHTTPClient.c
+[1317/1355] Write sources
+[1320/1355] Compiling a_gentm.c
+[1321/1355] Write sources
+[1322/1355] Compiling a_bitstr.c
+[1324/1446] Compiling BitCollections BitSet+CustomReflectable.swift
+[1325/1446] Compiling BitCollections BitSet+CustomStringConvertible.swift
+[1326/1446] Compiling BitCollections BitSet+Equatable.swift
+[1327/1446] Compiling BitCollections BitSet+ExpressibleByArrayLiteral.swift
+[1328/1446] Compiling BitCollections BitSet+Extras.swift
+[1329/1451] Emitting module BitCollections
+[1330/1465] Compiling Atomics ManagedAtomicLazyReference.swift
+[1331/1465] Compiling Atomics UnsafeAtomic.swift
+[1332/1465] Compiling Atomics UnsafeAtomicLazyReference.swift
+[1333/1465] Compiling Atomics IntegerOperations.swift
+[1334/1465] Compiling Atomics Unmanaged extensions.swift
+[1335/1465] Compiling BitCollections BitSet+Hashable.swift
+[1336/1465] Compiling BitCollections BitSet+Initializers.swift
+[1337/1465] Compiling BitCollections BitSet+Invariants.swift
+[1338/1465] Compiling BitCollections BitSet+Random.swift
+[1339/1465] Compiling BitCollections BitSet+SetAlgebra basics.swift
+[1340/1465] Compiling BitCollections BitSet+SetAlgebra conformance.swift
+[1341/1465] Compiling BitCollections BitSet+SetAlgebra formIntersection.swift
+[1342/1465] Compiling BitCollections BitSet+SetAlgebra formSymmetricDifference.swift
+[1343/1465] Compiling BitCollections BitSet+SetAlgebra formUnion.swift
+[1344/1465] Compiling BitCollections BitSet+SetAlgebra intersection.swift
+[1345/1465] Compiling BitCollections BitSet+SetAlgebra isDisjoint.swift
+[1346/1465] Compiling BitCollections BitSet+SetAlgebra isEqualSet.swift
+[1347/1465] Compiling BitCollections BitSet+SetAlgebra isStrictSubset.swift
+[1348/1465] Compiling BitCollections BitSet+SetAlgebra isStrictSuperset.swift
+[1349/1465] Compiling BitCollections BitSet+SetAlgebra isSubset.swift
+[1350/1465] Emitting module CryptoBoringWrapper
+[1351/1465] Compiling CryptoBoringWrapper BoringSSLAEAD.swift
+[1352/1465] Compiling CryptoBoringWrapper CryptoKitErrors_boring.swift
+[1353/1466] Compiling CryptoBoringWrapper EllipticCurve.swift
+[1354/1466] Compiling CryptoBoringWrapper EllipticCurvePoint.swift
+[1355/1466] Compiling CryptoBoringWrapper FiniteFieldArithmeticContext.swift
+[1356/1466] Compiling BitCollections BitArray.swift
+[1357/1466] Compiling BitCollections BitSet+BidirectionalCollection.swift
+[1358/1466] Compiling BitCollections BitSet+Codable.swift
+[1359/1466] Compiling BitCollections BitSet+CustomDebugStringConvertible.swift
+[1360/1466] Compiling CryptoBoringWrapper ArbitraryPrecisionInteger.swift
+[1367/1466] Compiling BitCollections BitArray+CustomReflectable.swift
+[1368/1466] Compiling BitCollections BitArray+Descriptions.swift
+[1369/1466] Compiling BitCollections BitArray+Equatable.swift
+[1370/1466] Compiling BitCollections BitArray+ExpressibleByArrayLiteral.swift
+[1371/1466] Compiling BitCollections BitArray+ExpressibleByStringLiteral.swift
+[1372/1466] Compiling BitCollections BitArray+Extras.swift
+[1373/1466] Compiling BitCollections BitArray+Fill.swift
+[1374/1466] Compiling BitCollections BitArray+Hashable.swift
+[1375/1466] Compiling BitCollections BitArray+Initializers.swift
+[1376/1466] Compiling BitCollections BitArray+Invariants.swift
+[1392/1466] Compiling CryptoBoringWrapper RandomBytes.swift
+[1399/1528] Compiling Crypto Insecure_HashFunctions.swift
+[1400/1528] Compiling Crypto KEM.swift
+[1401/1528] Compiling Crypto ECDH_boring.swift
+[1402/1528] Compiling Crypto DH.swift
+[1403/1528] Compiling Crypto ECDH.swift
+[1404/1528] Compiling Crypto HKDF.swift
+[1405/1528] Compiling Crypto AESWrap.swift
+[1406/1528] Compiling Crypto AESWrap_boring.swift
+[1407/1528] Compiling Crypto Ed25519_boring.swift
+[1408/1528] Compiling Crypto NISTCurvesKeys_boring.swift
+[1409/1528] Compiling Crypto X25519Keys_boring.swift
+[1410/1528] Compiling Crypto Curve25519.swift
+[1411/1528] Compiling Crypto Ed25519Keys.swift
+[1412/1528] Compiling Crypto NISTCurvesKeys.swift
+[1414/1529] Compiling Crypto ASN1Strings.swift
+[1415/1529] Compiling Crypto ArraySliceBigint.swift
+[1416/1529] Compiling Crypto GeneralizedTime.swift
+[1417/1529] Compiling Crypto ObjectIdentifier.swift
+[1418/1529] Compiling Crypto ECDSASignature.swift
+[1419/1529] Compiling Crypto PEMDocument.swift
+[1420/1529] Compiling Crypto PKCS8PrivateKey.swift
+[1421/1535] Emitting module Atomics
+[1422/1538] Wrapping AST for CryptoBoringWrapper for debugging
+[1424/1538] Emitting module Collections
+[1425/1538] Compiling Collections Collections.swift
+[1426/1538] Compiling Crypto ASN1Any.swift
+[1427/1538] Compiling Crypto ASN1BitString.swift
+[1428/1538] Compiling Crypto ASN1Boolean.swift
+[1429/1538] Compiling Crypto ASN1Identifier.swift
+[1430/1538] Compiling Crypto ASN1Integer.swift
+[1431/1538] Compiling Crypto ASN1Null.swift
+[1432/1538] Compiling Crypto ASN1OctetString.swift
+[1433/1539] Emitting module Algorithms
+[1434/1558] Wrapping AST for BitCollections for debugging
+[1436/1591] Compiling NIOCore ByteBuffer-lengthPrefix.swift
+[1437/1591] Compiling NIOCore ByteBuffer-multi-int.swift
+[1438/1591] Compiling NIOCore ByteBuffer-quicBinaryEncodingStrategy.swift
+[1439/1591] Compiling NIOCore ByteBuffer-views.swift
+[1440/1591] Compiling NIOCore Channel.swift
+[1441/1591] Compiling NIOCore ChannelHandler.swift
+[1442/1591] Compiling NIOCore ChannelHandlers.swift
+[1442/1591] Wrapping AST for Collections for debugging
+[1443/1591] Wrapping AST for Atomics for debugging
+[1445/1591] Emitting module Crypto
+[1446/1610] Compiling NIOCore AsyncChannelInboundStream.swift
+[1447/1610] Compiling NIOCore AsyncChannelOutboundWriter.swift
+[1448/1610] Compiling NIOCore NIOAsyncSequenceProducer.swift
+[1449/1610] Compiling NIOCore NIOAsyncSequenceProducerStrategies.swift
+[1450/1610] Compiling NIOCore NIOAsyncWriter.swift
+[1451/1610] Compiling NIOCore NIOThrowingAsyncSequenceProducer.swift
+[1452/1611] Wrapping AST for Algorithms for debugging
+[1454/1611] Compiling NIOCore AsyncChannelHandler.swift
+[1461/1611] Compiling NIOCore BSDSocketAPI.swift
+[1462/1611] Compiling NIOCore ByteBuffer-aux.swift
+[1463/1611] Compiling NIOCore ByteBuffer-binaryEncodedLengthPrefix.swift
+[1464/1611] Compiling NIOCore ByteBuffer-conversions.swift
+[1465/1611] Compiling NIOCore ByteBuffer-core.swift
+[1466/1611] Compiling NIOCore ByteBuffer-hex.swift
+[1467/1611] Compiling NIOCore ByteBuffer-int.swift
+[1468/1611] Compiling NIOCore EventLoop.swift
+[1469/1611] Compiling NIOCore EventLoopFuture+AssumeIsolated.swift
+[1470/1611] Compiling NIOCore EventLoopFuture+Deprecated.swift
+[1471/1611] Compiling NIOCore EventLoopFuture+WithEventLoop.swift
+[1472/1611] Compiling NIOCore EventLoopFuture.swift
+[1473/1611] Compiling NIOCore FileDescriptor.swift
+[1474/1611] Compiling NIOCore FileHandle.swift
+[1475/1611] Compiling NIOCore FileRegion.swift
+[1476/1611] Compiling NIOCore GlobalSingletons.swift
+[1477/1611] Compiling NIOCore IO.swift
+[1478/1611] Compiling NIOCore IOData.swift
+[1479/1611] Compiling NIOCore IPProtocol.swift
+[1480/1611] Compiling NIOCore IntegerBitPacking.swift
+[1481/1611] Compiling NIOCore IntegerTypes.swift
+[1482/1611] Compiling NIOCore Interfaces.swift
+[1483/1611] Compiling NIOCore Linux.swift
+[1484/1611] Compiling NIOCore MarkedCircularBuffer.swift
+[1493/1611] Compiling Crypto X25519Keys.swift
+[1501/1611] Compiling NIOCore ChannelInvoker.swift
+[1502/1611] Compiling NIOCore ChannelOption.swift
+[1503/1611] Compiling NIOCore ChannelPipeline.swift
+[1504/1611] Compiling NIOCore CircularBuffer.swift
+[1505/1611] Compiling NIOCore Codec.swift
+[1506/1611] Compiling NIOCore ConvenienceOptionSupport.swift
+[1507/1611] Compiling NIOCore DeadChannel.swift
+[1508/1611] Compiling NIOCore DispatchQueue+WithFuture.swift
+[1509/1611] Compiling NIOCore EventLoop+Deprecated.swift
+[1510/1611] Compiling NIOCore EventLoop+SerialExecutor.swift
+[1511/1611] Compiling NIOCore AddressedEnvelope.swift
+[1512/1611] Compiling NIOCore AsyncAwaitSupport.swift
+[1513/1611] Compiling NIOCore AsyncChannel.swift
+[1514/1611] Compiling Crypto SymmetricKeys.swift
+[1515/1611] Compiling Crypto HMAC.swift
+[1516/1611] Compiling Crypto MACFunctions.swift
+[1517/1611] Compiling Crypto MessageAuthenticationCode.swift
+[1518/1611] Compiling Crypto AES.swift
+[1519/1611] Compiling Crypto ECDSASignature_boring.swift
+[1520/1611] Compiling Crypto ECDSA_boring.swift
+[1521/1611] Compiling Crypto EdDSA_boring.swift
+[1522/1611] Compiling Crypto ECDSA.swift
+[1523/1611] Compiling Crypto Ed25519.swift
+[1524/1611] Compiling Crypto Signature.swift
+[1525/1611] Compiling Crypto CryptoKitErrors_boring.swift
+[1526/1611] Compiling Crypto RNG_boring.swift
+[1527/1611] Compiling Crypto SafeCompare_boring.swift
+[1528/1611] Compiling Crypto Zeroization_boring.swift
+[1529/1611] Compiling Crypto PrettyBytes.swift
+[1530/1611] Compiling Crypto SafeCompare.swift
+[1531/1611] Compiling Crypto SecureBytes.swift
+[1532/1611] Compiling Crypto Zeroization.swift
+[1533/1612] Wrapping AST for Crypto for debugging
+[1552/1628] Compiling NIOCore MulticastChannel.swift
+[1553/1628] Compiling NIOCore NIOAny.swift
+[1554/1628] Compiling NIOCore NIOCloseOnErrorHandler.swift
+[1555/1628] Compiling NIOCore NIOLoopBound.swift
+[1556/1628] Compiling NIOCore NIOScheduledCallback.swift
+[1557/1628] Compiling NIOCore NIOSendable.swift
+[1558/1628] Compiling NIOCore PointerHelpers.swift
+[1559/1628] Compiling NIOCore RecvByteBufferAllocator.swift
+[1560/1628] Compiling NIOCore SingleStepByteToMessageDecoder.swift
+[1561/1628] Compiling NIOCore SocketAddresses.swift
+[1562/1628] Compiling NIOCore SocketOptionProvider.swift
+[1563/1628] Compiling NIOCore SystemCallHelpers.swift
+[1564/1628] Compiling NIOCore TimeAmount+Duration.swift
+[1565/1628] Compiling NIOCore TypeAssistedChannelHandler.swift
+[1566/1628] Compiling NIOCore UniversalBootstrapSupport.swift
+[1567/1628] Compiling NIOCore Utilities.swift
+[1568/1628] Emitting module NIOCore
+[1603/1629] Wrapping AST for NIOCore for debugging
+[1605/1674] Emitting module NIOEmbedded
+[1606/1674] Compiling NIOEmbedded AsyncTestingChannel.swift
+[1607/1674] Compiling NIOEmbedded AsyncTestingEventLoop.swift
+[1608/1674] Compiling NIOEmbedded Embedded.swift
+[1609/1675] Wrapping AST for NIOEmbedded for debugging
+[1611/1675] Emitting module NIOPosix
+[1612/1688] Compiling NIOPosix PointerHelpers.swift
+[1613/1688] Compiling NIOPosix Pool.swift
+[1614/1688] Compiling NIOPosix PooledRecvBufferAllocator.swift
+[1615/1688] Compiling NIOPosix PosixSingletons+ConcurrencyTakeOver.swift
+[1616/1688] Compiling NIOPosix PosixSingletons.swift
+[1617/1688] Compiling NIOPosix RawSocketBootstrap.swift
+[1618/1688] Compiling NIOPosix Resolver.swift
+[1619/1688] Compiling NIOPosix Selectable.swift
+[1620/1688] Compiling NIOPosix SelectableChannel.swift
+[1621/1688] Compiling NIOPosix SelectableEventLoop.swift
+[1622/1688] Compiling NIOPosix SelectorEpoll.swift
+[1623/1688] Compiling NIOPosix SelectorGeneric.swift
+[1624/1688] Compiling NIOPosix SelectorKqueue.swift
+[1625/1688] Compiling NIOPosix IO.swift
+[1626/1688] Compiling NIOPosix IntegerBitPacking.swift
+[1627/1688] Compiling NIOPosix IntegerTypes.swift
+[1628/1688] Compiling NIOPosix Linux.swift
+[1629/1688] Compiling NIOPosix LinuxCPUSet.swift
+[1630/1688] Compiling NIOPosix LinuxUring.swift
+[1631/1688] Compiling NIOPosix MultiThreadedEventLoopGroup.swift
+[1632/1688] Compiling NIOPosix NIOThreadPool.swift
+[1633/1688] Compiling NIOPosix NonBlockingFileIO.swift
+[1634/1688] Compiling NIOPosix PendingDatagramWritesManager.swift
+[1635/1688] Compiling NIOPosix PendingWritesManager.swift
+[1636/1688] Compiling NIOPosix PipeChannel.swift
+[1637/1688] Compiling NIOPosix PipePair.swift
+[1638/1688] Compiling NIOPosix SelectorUring.swift
+[1639/1688] Compiling NIOPosix ServerSocket.swift
+[1640/1688] Compiling NIOPosix Socket.swift
+[1641/1688] Compiling NIOPosix SocketChannel.swift
+[1642/1688] Compiling NIOPosix SocketProtocols.swift
+[1643/1688] Compiling NIOPosix System.swift
+[1644/1688] Compiling NIOPosix Thread.swift
+[1645/1688] Compiling NIOPosix ThreadPosix.swift
+[1646/1688] Compiling NIOPosix ThreadWindows.swift
+[1647/1688] Compiling NIOPosix UnsafeTransfer.swift
+[1648/1688] Compiling NIOPosix Utilities.swift
+[1649/1688] Compiling NIOPosix VsockAddress.swift
+[1650/1688] Compiling NIOPosix VsockChannelEvents.swift
+[1651/1688] Compiling NIOPosix BSDSocketAPICommon.swift
+[1652/1688] Compiling NIOPosix BSDSocketAPIPosix.swift
+[1653/1688] Compiling NIOPosix BSDSocketAPIWindows.swift
+[1654/1688] Compiling NIOPosix BaseSocket.swift
+[1655/1688] Compiling NIOPosix BaseSocketChannel+SocketOptionProvider.swift
+[1656/1688] Compiling NIOPosix BaseSocketChannel.swift
+[1657/1688] Compiling NIOPosix BaseStreamSocketChannel.swift
+[1658/1688] Compiling NIOPosix Bootstrap.swift
+[1659/1688] Compiling NIOPosix ControlMessage.swift
+[1660/1688] Compiling NIOPosix DatagramVectorReadManager.swift
+[1661/1688] Compiling NIOPosix Errors+Any.swift
+[1662/1688] Compiling NIOPosix FileDescriptor.swift
+[1663/1688] Compiling NIOPosix GetaddrinfoResolver.swift
+[1664/1688] Compiling NIOPosix HappyEyeballs.swift
+[1665/1689] Wrapping AST for NIOPosix for debugging
+[1667/1738] Compiling NIO Exports.swift
+[1668/1738] Emitting module NIO
+[1670/1739] Compiling AsyncKit EventLoop+Flatten.swift
+[1671/1739] Compiling AsyncKit EventLoop+Future.swift
+[1672/1739] Compiling AsyncKit EventLoopGroup+Concurrency.swift
+[1673/1739] Compiling AsyncKit EventLoopGroup+Throwing.swift
+[1674/1739] Compiling AsyncKit Collection+Flatten.swift
+[1675/1739] Compiling AsyncKit EventLoopFutureQueue+Sequence.swift
+[1676/1759] Emitting module NIOTLS
+[1677/1760] Compiling NIOSOCKS SOCKSClientHandler.swift
+[1678/1760] Compiling NIOSOCKS SOCKSServerHandshakeHandler.swift
+[1679/1760] Compiling NIOSOCKS AuthenticationMethod.swift
+[1680/1760] Compiling NIOSOCKS ClientGreeting.swift
+[1681/1760] Compiling NIOSOCKS Errors.swift
+[1682/1760] Compiling NIOSOCKS Helpers.swift
+[1683/1760] Compiling NIOTLS ProtocolNegotiationHandlerStateMachine.swift
+[1686/1760] Compiling NIOTLS TLSEvents.swift
+[1690/1763] Emitting module NIOSOCKS
+[1694/1763] Compiling NIOTLS SNIHandler.swift
+[1695/1764] Compiling NIOSOCKS Messages.swift
+[1696/1764] Compiling NIOSOCKS SOCKSRequest.swift
+[1697/1764] Compiling NIOSOCKS SOCKSResponse.swift
+[1699/1764] Compiling AsyncKit Future+Transform.swift
+[1700/1764] Compiling AsyncKit Future+Try.swift
+[1701/1764] Compiling AsyncKit FutureOperators.swift
+[1702/1764] Compiling AsyncKit Optional+StrictMap.swift
+[1703/1764] Compiling AsyncKit Exports.swift
+[1704/1764] Compiling NIOSOCKS SelectedAuthenticationMethod.swift
+[1705/1764] Compiling NIOSOCKS ClientStateMachine.swift
+[1706/1764] Compiling NIOSOCKS ServerStateMachine.swift
+[1708/1803] Compiling NIOSSL SSLPKCS12Bundle.swift
+[1709/1803] Compiling NIOSSL SSLPrivateKey.swift
+[1710/1803] Compiling NIOSSL SSLPublicKey.swift
+[1711/1803] Compiling NIOSSL SecurityFrameworkCertificateVerification.swift
+[1712/1803] Compiling NIOSSL String+unsafeUninitializedCapacity.swift
+[1713/1803] Compiling _NIOFileSystem UnsafeTransfer.swift
+[1714/1803] Compiling _NIOFileSystem ParallelDirCopy.swift
+[1715/1803] Compiling _NIOFileSystem String+UnsafeUnititializedCapacity.swift
+[1716/1803] Compiling _NIOFileSystem CInterop.swift
+[1717/1811] Emitting module AsyncKit
+[1718/1811] Compiling NIOHTTP1 HTTPPipelineSetup.swift
+[1719/1811] Compiling NIOHTTP1 HTTPServerPipelineHandler.swift
+[1720/1811] Compiling NIOHTTP1 HTTPServerProtocolErrorHandler.swift
+[1721/1811] Compiling NIOHTTP1 HTTPServerUpgradeHandler.swift
+[1722/1815] Compiling NIOHTTP1 NIOTypedHTTPServerUpgraderStateMachine.swift
+[1723/1815] Compiling NIOSSL SSLInit.swift
+[1729/1822] Compiling NIOHTTP1 HTTPTypedPipelineSetup.swift
+[1730/1822] Compiling NIOHTTP1 HTTPTypes.swift
+[1731/1822] Compiling NIOHTTP1 NIOHTTPClientUpgradeHandler.swift
+[1732/1822] Compiling NIOHTTP1 NIOHTTPObjectAggregator.swift
+[1733/1822] Compiling NIOHTTP1 NIOTypedHTTPClientUpgradeHandler.swift
+[1734/1822] Compiling NIOHTTP1 NIOTypedHTTPClientUpgraderStateMachine.swift
+[1735/1822] Compiling NIOHTTP1 NIOTypedHTTPServerUpgradeHandler.swift
+[1738/1822] Emitting module _NIOFileSystem
+[1739/1822] Compiling NIOHTTP1 ByteCollectionUtils.swift
+[1740/1822] Compiling NIOHTTP1 HTTPDecoder.swift
+[1741/1822] Compiling NIOHTTP1 HTTPEncoder.swift
+[1742/1822] Compiling NIOHTTP1 HTTPHeaderValidator.swift
+[1743/1822] Compiling NIOHTTP1 HTTPHeaders+Validation.swift
+[1748/1822] Emitting module NIOHTTP1
+[1779/1823] Emitting module NIOSSL
+[1780/1827] Compiling NIOSSL Zeroization.swift
+[1781/1827] Compiling NIOSSL TLSConfiguration.swift
+[1782/1827] Compiling NIOSSL UniversalBootstrapSupport.swift
+[1783/1827] Compiling _NIOFileSystem Syscall.swift
+[1784/1827] Compiling _NIOFileSystem Syscalls.swift
+[1785/1827] Compiling _NIOFileSystem SystemFileHandle.swift
+[1786/1827] Compiling _NIOFileSystem Utilities.swift
+[1787/1827] Compiling _NIOFileSystem OpenOptions.swift
+[1789/1828] Emitting module NIOFoundationCompat
+[1790/1829] Compiling NIOFoundationCompat Codable+ByteBuffer.swift
+[1791/1829] Compiling NIOFoundationCompat JSONSerialization+ByteBuffer.swift
+[1792/1829] Compiling NIOSSL SubjectAlternativeName.swift
+[1793/1829] Compiling NIOSSL NIOSSLSecureBytes.swift
+[1794/1829] Compiling NIOSSL RNG.swift
+[1795/1829] Compiling NIOSSL SafeCompare.swift
+[1799/1829] Compiling NIOFoundationCompat WaitSpinningRunLoop.swift
+[1801/1839] Compiling NIOFoundationCompat ByteBuffer-foundation.swift
+[1803/1856] Compiling NIOHPACK DynamicHeaderTable.swift
+[1804/1856] Compiling NIOHPACK HPACKDecoder.swift
+[1805/1858] Compiling NIOHPACK HPACKEncoder.swift
+[1806/1858] Compiling NIOHPACK HPACKErrors.swift
+[1807/1858] Compiling NIOHPACK HPACKHeader.swift
+[1808/1858] Compiling NIOHPACK HeaderTables.swift
+[1809/1858] Compiling NIOHPACK HuffmanCoding.swift
+[1810/1858] Compiling NIOHPACK HuffmanTables.swift
+[1811/1858] Emitting module NIOWebSocket
+[1816/1858] Emitting module NIOHTTPCompression
+[1817/1858] Compiling NIOHTTPCompression HTTPResponseCompressor.swift
+[1818/1859] Compiling NIOWebSocket WebSocketOpcode.swift
+[1819/1859] Compiling NIOWebSocket WebSocketProtocolErrorHandler.swift
+[1821/1860] Emitting module NIOHPACK
+[1822/1862] Compiling NIOHTTPCompression HTTPResponseDecompressor.swift
+[1824/1863] Compiling NIOHPACK IntegerCoding.swift
+[1825/1863] Compiling NIOHPACK StaticHeaderTable.swift
+[1836/1867] Emitting module _NIOFileSystemFoundationCompat
+[1837/1867] Compiling _NIOFileSystemFoundationCompat Data+FileSystem.swift
+[1838/1867] Compiling _NIOFileSystemFoundationCompat Date+FileInfo.swift
+[1840/1887] Compiling NIOTransportServices NIOTSBootstraps.swift
+[1841/1887] Compiling NIOTransportServices NIOTSChannelOptions.swift
+[1842/1887] Compiling NIOTransportServices NIOTSConnectionBootstrap.swift
+[1843/1887] Compiling NIOTransportServices NIOTSConnectionChannel.swift
+[1844/1887] Compiling NIOTransportServices NIOTSErrors.swift
+[1845/1887] Compiling NIOTransportServices NIOTSEventLoop.swift
+[1846/1887] Compiling NIOTransportServices NIOTSEventLoopGroup.swift
+[1847/1887] Compiling NIOTransportServices NIOTSListenerBootstrap.swift
+[1848/1887] Compiling NIOTransportServices NIOTSListenerChannel.swift
+[1849/1887] Compiling NIOTransportServices NIOTSNetworkEvents.swift
+[1850/1887] Compiling NIOTransportServices NIOTSSingletons.swift
+[1851/1887] Compiling NIOTransportServices SocketAddress+NWEndpoint.swift
+[1852/1894] Emitting module NIOFileSystem
+[1853/1894] Compiling NIOTransportServices StateManagedChannel.swift
+[1854/1894] Compiling NIOTransportServices StateManagedListenerChannel.swift
+[1855/1894] Compiling NIOTransportServices StateManagedNWConnectionChannel.swift
+[1856/1894] Compiling NIOTransportServices TCPOptions+SocketChannelOption.swift
+[1857/1894] Compiling NIOTransportServices UDPOptions+SocketChannelOption.swift
+[1858/1894] Compiling NIOFileSystem Exports.swift
+[1859/1894] Emitting module NIOTransportServices
+[1860/1894] Compiling NIOTransportServices AcceptHandler.swift
+[1861/1894] Compiling NIOTransportServices NIOTSDatagramBootstrap.swift
+[1862/1894] Compiling NIOTransportServices NIOTSDatagramChannel.swift
+[1863/1894] Compiling NIOTransportServices NIOTSDatagramListener.swift
+[1864/1894] Compiling NIOTransportServices NIOTSDatagramListenerChannel.swift
+[1865/1894] Compiling NIOTransportServices NIOFilterEmptyWritesHandler.swift
+[1868/1977] Compiling MultipartKit FormDataEncoder.SingleValueContainer.swift
+[1869/1977] Compiling MultipartKit FormDataEncoder.UnkeyedContainer.swift
+[1870/1977] Compiling MultipartKit FormDataEncoder.swift
+[1871/1977] Compiling MultipartKit Storage.swift
+[1872/1977] Emitting module MultipartKit
+[1873/1986] Emitting module NIOExtras
+[1878/1986] Compiling NIOExtras QuiescingHelper.swift
+[1879/1986] Compiling MultipartKit BasicCodingKey.swift
+[1880/1986] Compiling MultipartKit MultipartError.swift
+[1881/1986] Compiling MultipartKit Exports.swift
+[1882/1986] Compiling MultipartKit FormDataDecoder.Decoder.swift
+[1883/1986] Compiling MultipartKit FormDataDecoder.KeyedContainer.swift
+[1884/1986] Compiling MultipartKit FormDataDecoder.SingleValueContainer.swift
+[1885/1986] Compiling MultipartKit FormDataDecoder.UnkeyedContainer.swift
+[1886/1986] Compiling MultipartKit FormDataDecoder.swift
+[1887/1986] Compiling MultipartKit FormDataEncoder.Encoder.swift
+[1888/1986] Compiling MultipartKit FormDataEncoder.KeyedContainer.swift
+[1899/1986] Emitting module NIOHTTP2
+[1900/2002] Compiling MultipartKit MultipartParser.swift
+[1901/2002] Compiling MultipartKit MultipartPart.swift
+[1902/2002] Compiling MultipartKit MultipartPartConvertible.swift
+[1903/2002] Compiling MultipartKit MultipartSerializer.swift
+[1904/2002] Compiling MultipartKit Utilities.swift
+[1905/2003] Wrapping AST for _NIOFileSystemFoundationCompat for debugging
+[1906/2003] Wrapping AST for _NIOFileSystem for debugging
+[1907/2003] Wrapping AST for NIOWebSocket for debugging
+[1908/2003] Wrapping AST for NIOTransportServices for debugging
+[1915/2003] Wrapping AST for NIOTLS for debugging
+[1917/2004] Wrapping AST for NIOSSL for debugging
+[1922/2005] Wrapping AST for NIOSOCKS for debugging
+[1924/2005] Wrapping AST for NIOHTTPCompression for debugging
+[1925/2005] Wrapping AST for NIOHTTP1 for debugging
+[1926/2005] Wrapping AST for NIOHPACK for debugging
+[1927/2005] Wrapping AST for NIOFoundationCompat for debugging
+[1928/2005] Wrapping AST for NIOFileSystem for debugging
+[1929/2012] Wrapping AST for NIO for debugging
+[1930/2012] Wrapping AST for NIOExtras for debugging
+[1931/2012] Wrapping AST for AsyncKit for debugging
+[1932/2012] Wrapping AST for MultipartKit for debugging
+[1934/2012] Emitting module WebSocketKit
+[1935/2013] Compiling WebSocketKit WebSocket+Concurrency.swift
+[1936/2013] Compiling WebSocketKit Exports.swift
+[1937/2013] Compiling WebSocketKit HTTPUpgradeRequestHandler.swift
+[1938/2013] Compiling WebSocketKit WebSocket+Connect.swift
+[1939/2013] Compiling WebSocketKit WebSocketHandler.swift
+[1940/2013] Compiling WebSocketKit WebSocket.swift
+[1941/2013] Compiling WebSocketKit WebSocketClient.swift
+[1942/2014] Wrapping AST for WebSocketKit for debugging
+[1944/2014] Compiling NIOHTTP2 HTTP2StreamChannel+OutboundStreamMultiplexer.swift
+[1945/2014] Compiling NIOHTTP2 HTTP2StreamChannel.swift
+[1946/2014] Compiling NIOHTTP2 HTTP2StreamDelegate.swift
+[1947/2014] Compiling NIOHTTP2 HTTP2StreamID.swift
+[1948/2014] Compiling NIOHTTP2 HTTP2StreamMultiplexer.swift
+[1949/2014] Compiling NIOHTTP2 HTTP2ToHTTP1Codec.swift
+[1950/2014] Compiling NIOHTTP2 HTTP2UserEvents.swift
+[1951/2014] Compiling NIOHTTP2 InboundEventBuffer.swift
+[1952/2014] Compiling NIOHTTP2 InboundWindowManager.swift
+[1953/2014] Compiling NIOHTTP2 MultiplexerAbstractChannel.swift
+[1954/2014] Compiling NIOHTTP2 StreamChannelFlowController.swift
+[1955/2014] Compiling NIOHTTP2 StreamChannelList.swift
+[1956/2014] Compiling NIOHTTP2 StreamMap.swift
+[1957/2014] Compiling NIOHTTP2 StreamStateMachine.swift
+[1958/2014] Compiling NIOHTTP2 UnsafeTransfer.swift
+[1959/2014] Compiling NIOHTTP2 WatermarkedFlowController.swift
+[1960/2014] Compiling NIOHTTP2 HasExtendedConnectSettings.swift
+[1961/2014] Compiling NIOHTTP2 HasFlowControlWindows.swift
+[1962/2014] Compiling NIOHTTP2 HasLocalSettings.swift
+[1963/2014] Compiling NIOHTTP2 HasRemoteSettings.swift
+[1964/2014] Compiling NIOHTTP2 LocallyQuiescingState.swift
+[1965/2014] Compiling NIOHTTP2 QuiescingState.swift
+[1966/2014] Compiling NIOHTTP2 RemotelyQuiescingState.swift
+[1967/2014] Compiling NIOHTTP2 SendAndReceiveGoawayState.swift
+[1968/2014] Compiling NIOHTTP2 StateMachineResult.swift
+[1969/2014] Compiling NIOHTTP2 ContentLengthVerifier.swift
+[1970/2014] Compiling NIOHTTP2 DOSHeuristics.swift
+[1971/2014] Compiling NIOHTTP2 Error+Any.swift
+[1972/2014] Compiling NIOHTTP2 ConcurrentStreamBuffer.swift
+[1973/2014] Compiling NIOHTTP2 ControlFrameBuffer.swift
+[1974/2014] Compiling NIOHTTP2 OutboundFlowControlBuffer.swift
+[1975/2014] Compiling NIOHTTP2 OutboundFrameBuffer.swift
+[1996/2014] Compiling NIOHTTP2 ReceivingGoAwayState.swift
+[1997/2014] Compiling NIOHTTP2 ReceivingHeadersState.swift
+[1998/2014] Compiling NIOHTTP2 ReceivingPushPromiseState.swift
+[1999/2014] Compiling NIOHTTP2 ReceivingRstStreamState.swift
+[2000/2014] Compiling NIOHTTP2 ReceivingWindowUpdateState.swift
+[2001/2014] Compiling NIOHTTP2 MaySendFrames.swift
+[2002/2014] Compiling NIOHTTP2 SendingDataState.swift
+[2003/2014] Compiling NIOHTTP2 SendingGoawayState.swift
+[2004/2014] Compiling NIOHTTP2 SendingHeadersState.swift
+[2005/2014] Compiling NIOHTTP2 SendingPushPromiseState.swift
+[2006/2014] Compiling NIOHTTP2 SendingRstStreamState.swift
+[2007/2014] Compiling NIOHTTP2 SendingWindowUpdateState.swift
+[2008/2014] Compiling NIOHTTP2 HTTP2SettingsState.swift
+[2009/2015] Wrapping AST for NIOHTTP2 for debugging
+[2011/2064] Emitting module AsyncHTTPClient
+[2012/2080] Compiling AsyncHTTPClient AnyAsyncSequence.swift
+[2013/2080] Compiling AsyncHTTPClient AnyAsyncSequenceProucerDelete.swift
+[2014/2080] Compiling AsyncHTTPClient AsyncLazySequence.swift
+[2015/2080] Compiling AsyncHTTPClient HTTPClient+execute.swift
+[2016/2080] Compiling AsyncHTTPClient HTTPClient+shutdown.swift
+[2017/2080] Compiling AsyncHTTPClient HTTPClientRequest+Prepared.swift
+[2018/2080] Compiling AsyncHTTPClient HTTPClientRequest+auth.swift
+[2019/2080] Compiling AsyncHTTPClient HTTPClientRequest.swift
+[2020/2080] Compiling AsyncHTTPClient HTTPClientResponse.swift
+[2021/2080] Compiling AsyncHTTPClient SingleIteratorPrecondition.swift
+[2022/2080] Compiling AsyncHTTPClient Transaction+StateMachine.swift
+[2023/2080] Compiling AsyncHTTPClient Transaction.swift
+[2024/2080] Compiling AsyncHTTPClient Base64.swift
+[2025/2080] Compiling AsyncHTTPClient BasicAuth.swift
+[2026/2080] Compiling AsyncHTTPClient BestEffortHashableTLSConfiguration.swift
+[2027/2080] Compiling AsyncHTTPClient Configuration+BrowserLike.swift
+[2028/2080] Compiling AsyncHTTPClient ConnectionPool.swift
+[2029/2080] Compiling AsyncHTTPClient HTTP1ProxyConnectHandler.swift
+[2030/2080] Compiling AsyncHTTPClient SOCKSEventsHandler.swift
+[2031/2080] Compiling AsyncHTTPClient TLSEventsHandler.swift
+[2032/2080] Compiling AsyncHTTPClient HTTP1ClientChannelHandler.swift
+[2033/2080] Compiling AsyncHTTPClient HTTP1Connection.swift
+[2034/2080] Compiling AsyncHTTPClient HTTP1ConnectionStateMachine.swift
+[2035/2080] Compiling AsyncHTTPClient HTTP2ClientRequestHandler.swift
+[2036/2080] Compiling AsyncHTTPClient HTTP2Connection.swift
+[2037/2080] Compiling AsyncHTTPClient HTTP2IdleHandler.swift
+[2038/2080] Compiling AsyncHTTPClient HTTPConnectionEvent.swift
+[2039/2080] Compiling AsyncHTTPClient HTTPConnectionPool+Factory.swift
+[2040/2080] Compiling AsyncHTTPClient HTTPConnectionPool+Manager.swift
+[2041/2080] Compiling AsyncHTTPClient HTTPConnectionPool.swift
+[2042/2080] Compiling AsyncHTTPClient HTTPExecutableRequest.swift
+[2043/2080] Compiling AsyncHTTPClient HTTPRequestStateMachine+Demand.swift
+[2044/2080] Compiling AsyncHTTPClient HTTPRequestStateMachine.swift
+[2045/2080] Compiling AsyncHTTPClient RequestBodyLength.swift
+[2046/2080] Compiling AsyncHTTPClient RequestFramingMetadata.swift
+[2047/2080] Compiling AsyncHTTPClient RequestOptions.swift
+[2048/2080] Compiling AsyncHTTPClient HTTPConnectionPool+Backoff.swift
+[2049/2080] Compiling AsyncHTTPClient HTTPConnectionPool+HTTP1Connections.swift
+[2050/2080] Compiling AsyncHTTPClient HTTPConnectionPool+HTTP1StateMachine.swift
+[2051/2080] Compiling AsyncHTTPClient HTTPConnectionPool+HTTP2Connections.swift
+[2052/2080] Compiling AsyncHTTPClient HTTPConnectionPool+HTTP2StateMachine.swift
+[2053/2080] Compiling AsyncHTTPClient HTTPConnectionPool+RequestQueue.swift
+[2054/2080] Compiling AsyncHTTPClient HTTPConnectionPool+StateMachine.swift
+[2055/2080] Compiling AsyncHTTPClient ConnectionTarget.swift
+[2056/2080] Compiling AsyncHTTPClient DeconstructedURL.swift
+[2057/2080] Compiling AsyncHTTPClient FileDownloadDelegate.swift
+[2058/2080] Compiling AsyncHTTPClient FoundationExtensions.swift
+[2059/2080] Compiling AsyncHTTPClient HTTPClient+HTTPCookie.swift
+[2060/2080] Compiling AsyncHTTPClient HTTPClient+Proxy.swift
+[2061/2080] Compiling AsyncHTTPClient HTTPClient.swift
+[2062/2080] Compiling AsyncHTTPClient HTTPHandler.swift
+[2063/2080] Compiling AsyncHTTPClient LRUCache.swift
+[2064/2080] Compiling AsyncHTTPClient NWErrorHandler.swift
+[2065/2080] Compiling AsyncHTTPClient NWWaitingHandler.swift
+[2066/2080] Compiling AsyncHTTPClient TLSConfiguration.swift
+[2067/2080] Compiling AsyncHTTPClient RedirectState.swift
+[2068/2080] Compiling AsyncHTTPClient RequestBag+StateMachine.swift
+[2069/2080] Compiling AsyncHTTPClient RequestBag.swift
+[2070/2080] Compiling AsyncHTTPClient RequestValidation.swift
+[2071/2080] Compiling AsyncHTTPClient SSLContextCache.swift
+[2072/2080] Compiling AsyncHTTPClient Scheme.swift
+[2073/2080] Compiling AsyncHTTPClient Singleton.swift
+[2074/2080] Compiling AsyncHTTPClient StringConvertibleInstances.swift
+[2075/2080] Compiling AsyncHTTPClient Utils.swift
+[2076/2081] Wrapping AST for AsyncHTTPClient for debugging
+[2078/2154] Compiling Vapor Core.swift
+[2079/2154] Compiling Vapor Running.swift
+[2080/2154] Compiling Vapor CORSMiddleware+AllowOriginSetting.swift
+[2081/2154] Compiling Vapor CORSMiddleware+Configuration+exposedHeaders.swift
+[2082/2154] Compiling Vapor DotEnvFile+load.swift
+[2083/2154] Compiling Vapor Routes+caseInsenstive.swift
+[2084/2154] Compiling Vapor Validatable+validate.swift
+[2085/2154] Compiling Vapor Environment+Process.swift
+[2086/2154] Compiling Vapor Environment+Secret.swift
+[2087/2154] Compiling Vapor Environment.swift
+[2088/2154] Compiling Vapor Abort.swift
+[2089/2154] Compiling Vapor AbortError.swift
+[2090/2154] Compiling Vapor DebuggableError.swift
+[2091/2154] Compiling Vapor Demangler.swift
+[2092/2154] Compiling Vapor ErrorSource.swift
+[2093/2154] Compiling Vapor StackTrace.swift
+[2094/2154] Compiling Vapor Exports.swift
+[2095/2154] Compiling Vapor Application+HTTP.swift
+[2096/2154] Compiling Vapor BasicResponder.swift
+[2097/2154] Compiling Vapor BodyStream.swift
+[2098/2154] Compiling Vapor Application+HTTP+Client.swift
+[2099/2154] Compiling Vapor EventLoopHTTPClient.swift
+[2100/2154] Compiling Vapor EndpointCache.swift
+[2101/2154] Compiling Vapor HTTPMethod+String.swift
+[2102/2178] Compiling Vapor AsyncBasicResponder.swift
+[2103/2178] Compiling Vapor AsyncMiddleware.swift
+[2104/2178] Compiling Vapor AsyncPasswordHasher+Concurrency.swift
+[2105/2178] Compiling Vapor AsyncSessionDriver.swift
+[2106/2178] Compiling Vapor Authentication+Concurrency.swift
+[2107/2178] Compiling Vapor Cache+Concurrency.swift
+[2108/2178] Compiling Vapor Client+Concurrency.swift
+[2109/2178] Compiling Vapor RequestBody+Concurrency.swift
+[2110/2178] Compiling Vapor Responder+Concurrency.swift
+[2111/2178] Compiling Vapor ResponseCodable+Concurrency.swift
+[2112/2178] Compiling Vapor RoutesBuilder+Concurrency.swift
+[2113/2178] Compiling Vapor ViewRenderer+Concurrency.swift
+[2114/2178] Compiling Vapor WebSocket+Concurrency.swift
+[2115/2178] Compiling Vapor ContainerGetPathExecutor.swift
+[2116/2178] Compiling Vapor Content.swift
+[2117/2178] Compiling Vapor ContentCoders.swift
+[2118/2178] Compiling Vapor ContentConfiguration.swift
+[2119/2178] Compiling Vapor ContentContainer.swift
+[2120/2178] Compiling Vapor JSONCoder+Custom.swift
+[2121/2178] Compiling Vapor JSONCoders+Content.swift
+[2122/2178] Compiling Vapor PlaintextDecoder.swift
+[2123/2178] Compiling Vapor PlaintextEncoder.swift
+[2124/2178] Compiling Vapor URLQueryCoders.swift
+[2125/2178] Compiling Vapor URLQueryContainer.swift
+[2126/2178] Compiling Vapor Application.swift
+[2127/2178] Compiling Vapor AuthenticationCache.swift
+[2128/2178] Compiling Vapor Authenticator.swift
+[2129/2178] Compiling Vapor BasicAuthorization.swift
+[2130/2178] Compiling Vapor BearerAuthorization.swift
+[2131/2178] Compiling Vapor GuardMiddleware.swift
+[2132/2178] Compiling Vapor RedirectMiddleware.swift
+[2133/2178] Compiling Vapor SessionAuthenticatable.swift
+[2134/2178] Compiling Vapor Bcrypt.swift
+[2135/2178] Compiling Vapor Application+Cache.swift
+[2136/2178] Compiling Vapor Cache.swift
+[2137/2178] Compiling Vapor CacheExpirationTime.swift
+[2138/2178] Compiling Vapor MemoryCache.swift
+[2139/2178] Compiling Vapor Request+Cache.swift
+[2140/2178] Compiling Vapor Application+Clients.swift
+[2141/2178] Compiling Vapor Client.swift
+[2142/2178] Compiling Vapor ClientRequest.swift
+[2143/2178] Compiling Vapor ClientResponse.swift
+[2144/2178] Compiling Vapor Request+Client.swift
+[2145/2178] Compiling Vapor BootCommand.swift
+[2146/2178] Compiling Vapor CommandContext+Application.swift
+[2147/2178] Compiling Vapor RoutesCommand.swift
+[2148/2178] Compiling Vapor ServeCommand.swift
+[2149/2178] Compiling Vapor AnyResponse+Concurrency.swift
+[2150/2226] Emitting module Vapor
+[2151/2250] Compiling Vapor HTTPServerResponseEncoder.swift
+[2152/2250] Compiling Vapor HTTPServerUpgradeHandler.swift
+[2153/2250] Compiling Vapor Logger+Report.swift
+[2154/2250] Compiling Vapor LoggingSystem+Environment.swift
+[2155/2250] Compiling Vapor Application+Middleware.swift
+[2156/2250] Compiling Vapor CORSMiddleware.swift
+[2157/2250] Compiling Vapor ErrorMiddleware.swift
+[2158/2250] Compiling Vapor FileMiddleware.swift
+[2159/2250] Compiling Vapor Middleware.swift
+[2160/2250] Compiling Vapor MiddlewareConfiguration.swift
+[2161/2250] Compiling Vapor ResponseCompressionMiddleware.swift
+[2162/2250] Compiling Vapor RouteLoggingMiddleware.swift
+[2163/2250] Compiling Vapor TracingMiddleware.swift
+[2164/2250] Compiling Vapor File+Multipart.swift
+[2165/2250] Compiling Vapor FormDataDecoder+Content.swift
+[2166/2250] Compiling Vapor FormDataEncoder+Content.swift
+[2167/2250] Compiling Vapor Application+Password.swift
+[2168/2250] Compiling Vapor Application+Passwords.swift
+[2169/2250] Compiling Vapor AsyncPasswordHasher.swift
+[2170/2250] Compiling Vapor BcryptHasher.swift
+[2171/2250] Compiling Vapor PasswordHasher.swift
+[2172/2250] Compiling Vapor PlaintextHasher.swift
+[2173/2250] Compiling Vapor Request+Password.swift
+[2174/2250] Compiling Vapor Redirect.swift
+[2175/2250] Compiling Vapor Request+Body.swift
+[2176/2250] Compiling Vapor Request+BodyStream.swift
+[2177/2250] Compiling Vapor Request.swift
+[2178/2250] Compiling Vapor Application+Responder.swift
+[2179/2250] Compiling Vapor DefaultResponder.swift
+[2180/2250] Compiling Vapor Response+Body.swift
+[2181/2250] Compiling Vapor Response.swift
+[2182/2250] Compiling Vapor ResponseCodable.swift
+[2183/2250] Compiling Vapor Application+Routes.swift
+[2184/2250] Compiling Vapor Parameters+Require.swift
+[2185/2250] Compiling Vapor Request+WebSocket.swift
+[2186/2250] Compiling Vapor Route.swift
+[2187/2250] Compiling Vapor RouteCollection.swift
+[2188/2250] Compiling Vapor Routes.swift
+[2189/2250] Compiling Vapor RoutesBuilder+Group.swift
+[2190/2250] Compiling Vapor RoutesBuilder+Method.swift
+[2191/2250] Compiling Vapor RoutesBuilder+Middleware.swift
+[2192/2250] Compiling Vapor RoutesBuilder+WebSocket.swift
+[2193/2250] Compiling Vapor RoutesBuilder.swift
+[2194/2250] Compiling Vapor OTP.swift
+[2195/2250] Compiling Vapor Application+Servers.swift
+[2196/2250] Compiling Vapor Server.swift
+[2197/2250] Compiling Vapor App+Service.swift
+[2198/2250] Compiling Vapor Req+Service.swift
+[2199/2298] Compiling Vapor HTTPStatus.swift
+[2200/2298] Compiling Vapor HTTPCookies.swift
+[2201/2298] Compiling Vapor HTTPHeaderCacheControl.swift
+[2202/2298] Compiling Vapor HTTPHeaderExpires.swift
+[2203/2298] Compiling Vapor HTTPHeaderLastModified.swift
+[2204/2298] Compiling Vapor HTTPHeaders+Cache.swift
+[2205/2298] Compiling Vapor HTTPHeaders+Connection.swift
+[2206/2298] Compiling Vapor HTTPHeaders+ContentDisposition.swift
+[2207/2298] Compiling Vapor HTTPHeaders+ContentRange.swift
+[2208/2298] Compiling Vapor HTTPHeaders+Directive.swift
+[2209/2298] Compiling Vapor HTTPHeaders+Forwarded.swift
+[2210/2298] Compiling Vapor HTTPHeaders+Link.swift
+[2211/2298] Compiling Vapor HTTPHeaders+Name.swift
+[2212/2298] Compiling Vapor HTTPHeaders+ResponseCompression.swift
+[2213/2298] Compiling Vapor HTTPHeaders.swift
+[2214/2298] Compiling Vapor HTTPMediaType.swift
+[2215/2298] Compiling Vapor HTTPMediaTypePreference.swift
+[2216/2298] Compiling Vapor Responder.swift
+[2217/2298] Compiling Vapor Application+HTTP+Server.swift
+[2218/2298] Compiling Vapor HTTPServer.swift
+[2219/2298] Compiling Vapor HTTPServerConfiguration+RequestDecompressionConfiguration.swift
+[2220/2298] Compiling Vapor HTTPServerConfiguration+ResponseCompressionConfiguration.swift
+[2221/2298] Compiling Vapor HTTPServerHandler.swift
+[2222/2298] Compiling Vapor HTTPServerRequestDecoder.swift
+[2223/2298] Compiling Vapor Validator.swift
+[2224/2298] Compiling Vapor ValidatorResult.swift
+[2225/2298] Compiling Vapor And.swift
+[2226/2298] Compiling Vapor Case.swift
+[2227/2298] Compiling Vapor CharacterSet.swift
+[2228/2298] Compiling Vapor Count.swift
+[2229/2298] Compiling Vapor Custom.swift
+[2230/2298] Compiling Vapor Email.swift
+[2231/2298] Compiling Vapor Empty.swift
+[2232/2298] Compiling Vapor In.swift
+[2233/2298] Compiling Vapor Nil.swift
+[2234/2298] Compiling Vapor NilIgnoring.swift
+[2235/2298] Compiling Vapor Not.swift
+[2236/2298] Compiling Vapor Or.swift
+[2237/2298] Compiling Vapor Pattern.swift
+[2238/2298] Compiling Vapor Range.swift
+[2239/2298] Compiling Vapor URL.swift
+[2240/2298] Compiling Vapor Valid.swift
+[2241/2298] Compiling Vapor Application+Views.swift
+[2242/2298] Compiling Vapor PlaintextRenderer.swift
+[2243/2298] Compiling Vapor Request+View.swift
+[2244/2298] Compiling Vapor View.swift
+[2245/2298] Compiling Vapor ViewRenderer.swift
+[2246/2298] Compiling Vapor _Deprecations.swift
+[2247/2298] Compiling Vapor Bytes+Hex.swift
+[2248/2298] Compiling Vapor Bytes+SecureCompare.swift
+[2249/2298] Compiling Vapor Collection+Safe.swift
+[2250/2298] Compiling Vapor DataProtocol+Copy.swift
+[2251/2298] Compiling Vapor DecoderUnwrapper.swift
+[2252/2298] Compiling Vapor DirectoryConfiguration.swift
+[2253/2298] Compiling Vapor DotEnv.swift
+[2254/2298] Compiling Vapor Extendable.swift
+[2255/2298] Compiling Vapor File.swift
+[2256/2298] Compiling Vapor FileIO.swift
+[2257/2298] Compiling Vapor LifecycleHandler.swift
+[2258/2298] Compiling Vapor OptionalType.swift
+[2259/2298] Compiling Vapor RFC1123.swift
+[2260/2298] Compiling Vapor SocketAddress+Hostname.swift
+[2261/2298] Compiling Vapor Storage.swift
+[2262/2298] Compiling Vapor String+IsIPAddress.swift
+[2263/2298] Compiling Vapor Thread.swift
+[2264/2298] Compiling Vapor URI.swift
+[2265/2298] Compiling Vapor RangeResult.swift
+[2266/2298] Compiling Vapor Validatable.swift
+[2267/2298] Compiling Vapor Validation.swift
+[2268/2298] Compiling Vapor ValidationKey.swift
+[2269/2298] Compiling Vapor Validations.swift
+[2270/2298] Compiling Vapor ValidationsError.swift
+[2271/2298] Compiling Vapor Service.swift
+[2272/2298] Compiling Vapor Application+Sessions.swift
+[2273/2298] Compiling Vapor MemorySessions.swift
+[2274/2298] Compiling Vapor Request+Session.swift
+[2275/2298] Compiling Vapor Session.swift
+[2276/2298] Compiling Vapor SessionCache.swift
+[2277/2298] Compiling Vapor SessionData.swift
+[2278/2298] Compiling Vapor SessionDriver.swift
+[2279/2298] Compiling Vapor SessionsConfiguration.swift
+[2280/2298] Compiling Vapor SessionsMiddleware.swift
+[2281/2298] Compiling Vapor URLEncodedFormData.swift
+[2282/2298] Compiling Vapor URLEncodedFormDecoder.swift
+[2283/2298] Compiling Vapor URLEncodedFormEncoder.swift
+[2284/2298] Compiling Vapor URLEncodedFormError.swift
+[2285/2298] Compiling Vapor URLEncodedFormParser.swift
+[2286/2298] Compiling Vapor URLEncodedFormSerializer.swift
+[2287/2298] Compiling Vapor URLQueryFragmentConvertible.swift
+[2288/2298] Compiling Vapor AnyResponse.swift
+[2289/2298] Compiling Vapor Array+Random.swift
+[2290/2298] Compiling Vapor Base32.swift
+[2291/2298] Compiling Vapor Base64.swift
+[2292/2298] Compiling Vapor BaseN.swift
+[2293/2298] Compiling Vapor BasicCodingKey.swift
+[2294/2298] Compiling Vapor ByteCount.swift
+[2295/2299] Wrapping AST for Vapor for debugging
+[2297/2306] Compiling OpenAPIFluentGen OpenAPIFileEndpointExtractor.swift
+[2298/2306] Compiling OpenAPIFluentGen ServerFileExtractor.swift
+[2299/2306] Compiling OpenAPIFluentGen TypesFileExtractor.swift
+[2300/2306] Compiling OpenAPIFluentGen YAMLParser.swift
+[2301/2306] Compiling OpenAPIFluentGen StringRegexExtensions.swift
+/home/runner/work/OpenAPI-Fluent-Gen/OpenAPI-Fluent-Gen/OpenAPIFluentGen/Sources/Core/OpenAPIHandlerGen.swift:11:13: warning: initialization of immutable value 'openAPIContent' was never used; consider replacing with assignment to '_' or removing it
+ 9 |     func run() throws {
+10 |         // Read and parse the OpenAPI specification
+11 |         let openAPIContent = try String(contentsOfFile: openAPIPath, encoding: .utf8)
+   |             `- warning: initialization of immutable value 'openAPIContent' was never used; consider replacing with assignment to '_' or removing it
+12 |         print("Successfully read OpenAPI file at \(openAPIPath)")
+13 | 
+[2302/2306] Compiling OpenAPIFluentGen OpenAPIHandlerGen.swift
+/home/runner/work/OpenAPI-Fluent-Gen/OpenAPI-Fluent-Gen/OpenAPIFluentGen/Sources/Core/OpenAPIHandlerGen.swift:11:13: warning: initialization of immutable value 'openAPIContent' was never used; consider replacing with assignment to '_' or removing it
+ 9 |     func run() throws {
+10 |         // Read and parse the OpenAPI specification
+11 |         let openAPIContent = try String(contentsOfFile: openAPIPath, encoding: .utf8)
+   |             `- warning: initialization of immutable value 'openAPIContent' was never used; consider replacing with assignment to '_' or removing it
+12 |         print("Successfully read OpenAPI file at \(openAPIPath)")
+13 | 
+[2303/2306] Emitting module OpenAPIFluentGen
+[2304/2308] Compiling OpenAPIFluentGen main.swift
+[2305/2308] Compiling OpenAPIFluentGen resource_bundle_accessor.swift
+[2306/2309] Wrapping AST for OpenAPIFluentGen for debugging
+[2307/2309] Write Objects.LinkFileList
+[2308/2309] Linking OpenAPIFluentGen
+Build complete! (176.15s)

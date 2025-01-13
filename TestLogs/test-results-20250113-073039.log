@@ -1,0 +1,117 @@
+warning: 'swift-algorithms': found 1 file(s) which are unhandled; explicitly declare them as resources or exclude from the target
+    /home/runner/work/OpenAPI-Fluent-Gen/OpenAPI-Fluent-Gen/OpenAPIFluentGen/.build/checkouts/swift-algorithms/Sources/Algorithms/Documentation.docc
+[0/1] Planning build
+Building for debugging...
+[0/12] Write sources
+[1/64] Write swift-version--1BFCD5C06E9F820A.txt
+[3/21] Emitting module OpenAPIFluentGenTests
+[4/23] Compiling OpenAPIFluentGenTests EmptyAndCommentFileTests.swift
+[5/23] Compiling OpenAPIFluentGenTests InvalidContentExtractionTests.swift
+[6/23] Compiling OpenAPIFluentGenTests MultipleModelExtractionTests.swift
+[7/23] Compiling OpenAPIFluentGenTests OpenAPIPresenceTests.swift
+[8/23] Compiling OpenAPIFluentGenTests ServerFileExtractorTests.swift
+[9/23] Compiling OpenAPIFluentGenTests EdgeCaseTests.swift
+[10/23] Compiling OpenAPIFluentGenTests ErrorHandlingTests.swift
+[11/23] Compiling OpenAPIFluentGenTests InlineCodeTests.swift
+[12/23] Compiling OpenAPIFluentGenTests OpenAPIFileEndpointExtractorTests.swift
+[13/23] Compiling OpenAPIFluentGenTests NestedStructureExtractionTests.swift
+[14/23] Compiling OpenAPIFluentGenTests SingleModelExtractionTests.swift
+[15/24] Wrapping AST for OpenAPIFluentGenTests for debugging
+[16/24] /home/runner/work/OpenAPI-Fluent-Gen/OpenAPI-Fluent-Gen/OpenAPIFluentGen/.build/x86_64-unknown-linux-gnu/debug/OpenAPIFluentGenPackageDiscoveredTests.derived/all-discovered-tests.swift
+[17/24] Write sources
+[19/27] Emitting module OpenAPIFluentGenPackageDiscoveredTests
+[20/27] Compiling OpenAPIFluentGenPackageDiscoveredTests all-discovered-tests.swift
+[21/27] Compiling OpenAPIFluentGenPackageDiscoveredTests OpenAPIFluentGenTests.swift
+[22/28] /home/runner/work/OpenAPI-Fluent-Gen/OpenAPI-Fluent-Gen/OpenAPIFluentGen/.build/x86_64-unknown-linux-gnu/debug/OpenAPIFluentGenPackageTests.derived/runner.swift
+[23/28] Write sources
+[24/28] Wrapping AST for OpenAPIFluentGenPackageDiscoveredTests for debugging
+[26/30] Emitting module OpenAPIFluentGenPackageTests
+[27/30] Compiling OpenAPIFluentGenPackageTests runner.swift
+[28/31] Wrapping AST for OpenAPIFluentGenPackageTests for debugging
+[29/31] Write Objects.LinkFileList
+[30/31] Linking OpenAPIFluentGenPackageTests.xctest
+Build complete! (7.84s)
+Test Suite 'All tests' started at 2025-01-13 07:30:48.165
+Test Suite 'debug.xctest' started at 2025-01-13 07:30:48.729
+Test Suite 'EdgeCaseTests' started at 2025-01-13 07:30:48.729
+Test Case 'EdgeCaseTests.testFileWithComplexSpacing' started at 2025-01-13 07:30:48.729
+Test Case 'EdgeCaseTests.testFileWithComplexSpacing' passed (0.078 seconds)
+Test Suite 'EdgeCaseTests' passed at 2025-01-13 07:30:48.806
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.078 (0.078) seconds
+Test Suite 'EmptyAndCommentFileTests' started at 2025-01-13 07:30:48.806
+Test Case 'EmptyAndCommentFileTests.testCommentOnlyFileExtraction' started at 2025-01-13 07:30:48.806
+Test Case 'EmptyAndCommentFileTests.testCommentOnlyFileExtraction' passed (0.0 seconds)
+Test Case 'EmptyAndCommentFileTests.testEmptyFileExtraction' started at 2025-01-13 07:30:48.807
+Test Case 'EmptyAndCommentFileTests.testEmptyFileExtraction' passed (0.0 seconds)
+Test Suite 'EmptyAndCommentFileTests' passed at 2025-01-13 07:30:48.807
+	 Executed 2 tests, with 0 failures (0 unexpected) in 0.0 (0.0) seconds
+Test Suite 'ErrorHandlingTests' started at 2025-01-13 07:30:48.807
+Test Case 'ErrorHandlingTests.testMalformedYAML' started at 2025-01-13 07:30:48.807
+Test Case 'ErrorHandlingTests.testMalformedYAML' passed (0.003 seconds)
+Test Case 'ErrorHandlingTests.testMissingRequiredFields' started at 2025-01-13 07:30:48.810
+Test Case 'ErrorHandlingTests.testMissingRequiredFields' passed (0.002 seconds)
+Test Suite 'ErrorHandlingTests' passed at 2025-01-13 07:30:48.812
+	 Executed 2 tests, with 0 failures (0 unexpected) in 0.005 (0.005) seconds
+Test Suite 'InlineCodeTests' started at 2025-01-13 07:30:48.812
+Test Case 'InlineCodeTests.testDownloadWorkflowLogs' started at 2025-01-13 07:30:48.812
+Test Case 'InlineCodeTests.testDownloadWorkflowLogs' passed (0.0 seconds)
+Test Case 'InlineCodeTests.testGetWorkflow' started at 2025-01-13 07:30:48.812
+Test Case 'InlineCodeTests.testGetWorkflow' passed (0.0 seconds)
+Test Case 'InlineCodeTests.testListWorkflowRuns' started at 2025-01-13 07:30:48.812
+Test Case 'InlineCodeTests.testListWorkflowRuns' passed (0.0 seconds)
+Test Case 'InlineCodeTests.testListWorkflows' started at 2025-01-13 07:30:48.812
+Test Case 'InlineCodeTests.testListWorkflows' passed (0.0 seconds)
+Test Suite 'InlineCodeTests' passed at 2025-01-13 07:30:48.813
+	 Executed 4 tests, with 0 failures (0 unexpected) in 0.0 (0.0) seconds
+Test Suite 'InvalidContentExtractionTests' started at 2025-01-13 07:30:48.813
+Test Case 'InvalidContentExtractionTests.testInvalidContentExtraction' started at 2025-01-13 07:30:48.813
+Test Case 'InvalidContentExtractionTests.testInvalidContentExtraction' passed (0.0 seconds)
+Test Suite 'InvalidContentExtractionTests' passed at 2025-01-13 07:30:48.813
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.0 (0.0) seconds
+Test Suite 'MultipleModelExtractionTests' started at 2025-01-13 07:30:48.813
+Test Case 'MultipleModelExtractionTests.testMultipleModelExtraction' started at 2025-01-13 07:30:48.813
+Test Case 'MultipleModelExtractionTests.testMultipleModelExtraction' passed (0.0 seconds)
+Test Suite 'MultipleModelExtractionTests' passed at 2025-01-13 07:30:48.813
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.0 (0.0) seconds
+Test Suite 'NestedStructureExtractionTests' started at 2025-01-13 07:30:48.813
+Test Case 'NestedStructureExtractionTests.testNestedStructExtraction' started at 2025-01-13 07:30:48.813
+Test Case 'NestedStructureExtractionTests.testNestedStructExtraction' passed (0.0 seconds)
+Test Suite 'NestedStructureExtractionTests' passed at 2025-01-13 07:30:48.813
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.0 (0.0) seconds
+Test Suite 'OpenAPIFileEndpointExtractorTests' started at 2025-01-13 07:30:48.813
+Test Case 'OpenAPIFileEndpointExtractorTests.testExtractEndpoints' started at 2025-01-13 07:30:48.813
+Test Case 'OpenAPIFileEndpointExtractorTests.testExtractEndpoints' passed (0.0 seconds)
+Test Case 'OpenAPIFileEndpointExtractorTests.testInvalidEndpointParsing' started at 2025-01-13 07:30:48.813
+Test Case 'OpenAPIFileEndpointExtractorTests.testInvalidEndpointParsing' passed (0.0 seconds)
+Test Case 'OpenAPIFileEndpointExtractorTests.testNoEndpoints' started at 2025-01-13 07:30:48.813
+Test Case 'OpenAPIFileEndpointExtractorTests.testNoEndpoints' passed (0.0 seconds)
+Test Suite 'OpenAPIFileEndpointExtractorTests' passed at 2025-01-13 07:30:48.814
+	 Executed 3 tests, with 0 failures (0 unexpected) in 0.0 (0.0) seconds
+Test Suite 'OpenAPIPresenceTests' started at 2025-01-13 07:30:48.814
+Test Case 'OpenAPIPresenceTests.testOpenAPIFileExists' started at 2025-01-13 07:30:48.814
+Test Case 'OpenAPIPresenceTests.testOpenAPIFileExists' passed (0.0 seconds)
+Test Suite 'OpenAPIPresenceTests' passed at 2025-01-13 07:30:48.814
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.0 (0.0) seconds
+Test Suite 'ServerFileExtractorTests' started at 2025-01-13 07:30:48.814
+Test Case 'ServerFileExtractorTests.testExtractRoutesFromEmptyContent' started at 2025-01-13 07:30:48.814
+Test Case 'ServerFileExtractorTests.testExtractRoutesFromEmptyContent' passed (0.0 seconds)
+Test Case 'ServerFileExtractorTests.testExtractRoutesFromInvalidContent' started at 2025-01-13 07:30:48.814
+Test Case 'ServerFileExtractorTests.testExtractRoutesFromInvalidContent' passed (0.0 seconds)
+Test Case 'ServerFileExtractorTests.testExtractRoutesFromMixedContent' started at 2025-01-13 07:30:48.814
+Test Case 'ServerFileExtractorTests.testExtractRoutesFromMixedContent' passed (0.001 seconds)
+Test Case 'ServerFileExtractorTests.testExtractRoutesFromValidContent' started at 2025-01-13 07:30:48.815
+Test Case 'ServerFileExtractorTests.testExtractRoutesFromValidContent' passed (0.0 seconds)
+Test Suite 'ServerFileExtractorTests' passed at 2025-01-13 07:30:48.815
+	 Executed 4 tests, with 0 failures (0 unexpected) in 0.002 (0.002) seconds
+Test Suite 'SingleModelExtractionTests' started at 2025-01-13 07:30:48.816
+Test Case 'SingleModelExtractionTests.testSingleModelExtraction' started at 2025-01-13 07:30:48.816
+Test Case 'SingleModelExtractionTests.testSingleModelExtraction' passed (0.0 seconds)
+Test Suite 'SingleModelExtractionTests' passed at 2025-01-13 07:30:48.816
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.0 (0.0) seconds
+Test Suite 'debug.xctest' passed at 2025-01-13 07:30:48.816
+	 Executed 21 tests, with 0 failures (0 unexpected) in 0.087 (0.087) seconds
+Test Suite 'All tests' passed at 2025-01-13 07:30:48.816
+	 Executed 21 tests, with 0 failures (0 unexpected) in 0.087 (0.087) seconds
+◇ Test run started.
+↳ Testing Library Version: 6.0.3 (18c42c19cac3faf)
+✔ Test run with 0 tests passed after 0.001 seconds.
