@@ -1,4 +1,4 @@
-// swift-tools-version: 6.0.3
+// swift-tools-version: 6.0.0
 import PackageDescription
 
 let package = Package(
@@ -18,7 +18,10 @@ let package = Package(
             name: "OpenAPIFluentGen",
             dependencies: [
                 "Yams",
-                .product(name: "Vapor", package: "vapor") // Correct dependency declaration
+                .product(name: "Vapor", package: "vapor")
+            ],
+            resources: [
+                .process("openapi.yaml") // Correctly reference openapi.yaml in Sources directory
             ]
         ),
         .testTarget(
