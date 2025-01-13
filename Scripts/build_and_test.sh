@@ -2,7 +2,6 @@
 
 set -e
 
-# Create Logs Directory
 # Ensure the 'Scripts' directory exists
 mkdir -p Scripts
 
@@ -15,14 +14,14 @@ git config --global user.name "CI Bot"
 
 # Build and Test Function
 function build_and_test() {
-  echo "Starting Build and Test..."
+  echo "Starting Build and Test for OpenAPIFluentGen..."
 
   # Navigate to the correct directory
-  cd OpenAPIHandlerGen || { echo "Directory OpenAPIHandlerGen not found!"; exit 1; }
+  cd OpenAPIFluentGen || { echo "Directory OpenAPIFluentGen not found!"; exit 1; }
 
   # Verify Package.swift exists
   if [ ! -f Package.swift ]; then
-    echo "Package.swift not found in OpenAPIHandlerGen!" > ../TestLogs/error-$(date +'%Y%m%d-%H%M%S').log
+    echo "Package.swift not found in OpenAPIFluentGen!" > ../TestLogs/error-$(date +'%Y%m%d-%H%M%S').log
     exit 1
   fi
 
@@ -44,8 +43,8 @@ build_and_test
 # Commit logs to GitHub repository
 cd ..
 git add TestLogs/*.log
-git commit -m "Add logs from build and test run on $(date +'%Y-%m-%d %H:%M:%S')"
+git commit -m "chore(ci): add logs from build and test run on $(date +'%Y-%m-%d %H:%M:%S')"
 git push origin main
 
 # Final Message
-echo "Build and Test Completed Successfully!"
+echo "Build and Test Completed Successfully for OpenAPIFluentGen!"
