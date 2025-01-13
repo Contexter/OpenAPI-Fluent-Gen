@@ -1,5 +1,5 @@
 import XCTest
-@testable import OpenAPIHandlerGen // Ensure this imports the correct module where OpenAPIFileEndpointExtractor is defined.
+@testable import OpenAPIFluentGen // Ensure this imports the correct module where OpenAPIFileEndpointExtractor is defined.
 
 final class OpenAPIFileEndpointExtractorTests: XCTestCase {
 

@@ -1,7 +1,7 @@
 // File: Tests/TypesFileExtractorTests/InvalidContentExtractionTests.swift
 
 import XCTest
-@testable import OpenAPIHandlerGen
+@testable import OpenAPIFluentGen
 
 final class InvalidContentExtractionTests: XCTestCase {
 

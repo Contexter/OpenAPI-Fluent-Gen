@@ -1,7 +1,7 @@
 // File: Tests/TypesFileExtractorTests/MultipleModelExtractionTests.swift
 
 import XCTest
-@testable import OpenAPIHandlerGen
+@testable import OpenAPIFluentGen
 
 final class MultipleModelExtractionTests: XCTestCase {
     func testMultipleModelExtraction() throws {

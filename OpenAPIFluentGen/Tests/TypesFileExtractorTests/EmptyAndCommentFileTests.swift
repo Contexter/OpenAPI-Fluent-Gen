@@ -1,7 +1,7 @@
 // File: Tests/TypesFileExtractorTests/EmptyAndCommentFileTests.swift
 
 import XCTest
-@testable import OpenAPIHandlerGen
+@testable import OpenAPIFluentGen
 
 final class EmptyAndCommentFileTests: XCTestCase {
 

@@ -1,7 +1,7 @@
 // File: Tests/TypesFileExtractorTests/NestedStructureExtractionTests.swift
 
 import XCTest
-@testable import OpenAPIHandlerGen
+@testable import OpenAPIFluentGen
 
 final class NestedStructureExtractionTests: XCTestCase {
     func testNestedStructExtraction() throws {

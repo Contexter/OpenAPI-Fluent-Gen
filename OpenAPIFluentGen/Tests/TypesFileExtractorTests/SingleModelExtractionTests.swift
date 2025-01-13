@@ -1,7 +1,7 @@
 // File: Tests/TypesFileExtractorTests/SingleModelExtractionTests.swift
 
 import XCTest
-@testable import OpenAPIHandlerGen
+@testable import OpenAPIFluentGen
 
 final class SingleModelExtractionTests: XCTestCase {
 

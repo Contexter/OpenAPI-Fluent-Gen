@@ -1,6 +1,6 @@
 // File: Tests/TypesFileExtractorTests/EdgeCaseTests.swift
 import XCTest
-@testable import OpenAPIHandlerGen // Import the module
+@testable import OpenAPIFluentGen // Import the module
 
 /// Tests for edge cases in TypesFileExtractor.
 final class EdgeCaseTests: XCTestCase {
